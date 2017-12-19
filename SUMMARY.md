@@ -9,8 +9,8 @@
     * [1.1.3多媒体课件的类型](113duo-mei-ti-ke-jian-de-lei-xing.md)
   * 1.2幼儿园多媒体课件设计的理论基础
     * [1.2.1现代教育思想及其指导意义](121xian-dai-jiao-yu-si-xiang-ji-qi-zhi-dao-yi-yi.md)
-    * 1.2.2学习理论及其指导意义
-    * 1.2.3美学理论及其指导意义
+    * [1.2.2学习理论及其指导意义](122xue-xi-li-lun-ji-qi-zhi-dao-yi-yi.md)
+    * [1.2.3美学理论及其指导意义](123mei-xue-li-lun-ji-qi-zhi-dao-yi-yi.md)
   * 1.3幼儿园多媒体课件的制作工具、规范和评价
     * [1.3.1幼儿园多媒体课件的制作工具](131you-er-yuan-duo-mei-ti-ke-jian-de-zhi-zuo-gong-ju.md)
     * 1.3.2幼儿园多媒体课件的制作规范
