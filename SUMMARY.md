@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [课程简介](README.md)
 * 第1章  幼儿园多媒体课件概述
   * 学习目标
   * [1.1幼儿园多媒体课件的概念、结构和类型](11you-er-yuan-duo-mei-ti-ke-jian-de-gai-nian-3001-jie-gou-he-lei-xing.md)
