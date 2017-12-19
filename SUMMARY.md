@@ -4,7 +4,7 @@
 * [第1章  幼儿园多媒体课件概述](chapter1.md)
   * 学习目标
   * [1.1幼儿园多媒体课件的概念、结构和类型](chapter1/11you-er-yuan-duo-mei-ti-ke-jian-de-gai-nian-3001-jie-gou-he-lei-xing.md)
-    * 1.1.1多媒体课件的概念
+    * [1.1.1多媒体课件的概念](chapter1/11you-er-yuan-duo-mei-ti-ke-jian-de-gai-nian-3001-jie-gou-he-lei-xing/111duo-mei-ti-ke-jian-de-gai-nian.md)
     * 1.1.2多媒体课件的结构
     * 1.1.3多媒体课件的类型
   * [1.2幼儿园多媒体课件设计的理论基础](chapter1/12you-er-yuan-duo-mei-ti-ke-jian-she-ji-de-li-lun-ji-chu.md)

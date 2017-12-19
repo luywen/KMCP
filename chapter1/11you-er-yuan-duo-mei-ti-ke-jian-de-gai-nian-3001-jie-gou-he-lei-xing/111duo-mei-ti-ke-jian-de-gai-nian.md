@@ -1,0 +1,83 @@
+&lt;!--  
+ /\* Font Definitions \*/  
+ @font-face  
+	{font-family:宋体;  
+	panose-1:2 1 6 0 3 1 1 1 1 1;  
+	mso-font-alt:SimSun;  
+	mso-font-charset:134;  
+	mso-generic-font-family:auto;  
+	mso-font-pitch:variable;  
+	mso-font-signature:3 680460288 22 0 262145 0;}  
+@font-face  
+	{font-family:"Cambria Math";  
+	panose-1:2 4 5 3 5 4 6 3 2 4;  
+	mso-font-charset:1;  
+	mso-generic-font-family:roman;  
+	mso-font-format:other;  
+	mso-font-pitch:variable;  
+	mso-font-signature:0 0 0 0 0 0;}  
+@font-face  
+	{font-family:Calibri;  
+	panose-1:2 15 5 2 2 2 4 3 2 4;  
+	mso-font-charset:0;  
+	mso-generic-font-family:swiss;  
+	mso-font-pitch:variable;  
+	mso-font-signature:-536859905 -1073732485 9 0 511 0;}  
+@font-face  
+	{font-family:"\@宋体";  
+	panose-1:2 1 6 0 3 1 1 1 1 1;  
+	mso-font-charset:134;  
+	mso-generic-font-family:auto;  
+	mso-font-pitch:variable;  
+	mso-font-signature:3 680460288 22 0 262145 0;}  
+ /\* Style Definitions \*/  
+ p.MsoNormal, li.MsoNormal, div.MsoNormal  
+	{mso-style-unhide:no;  
+	mso-style-qformat:yes;  
+	mso-style-parent:"";  
+	margin:0cm;  
+	margin-bottom:.0001pt;  
+	text-align:justify;  
+	text-justify:inter-ideograph;  
+	mso-pagination:none;  
+	font-size:10.5pt;  
+	mso-bidi-font-size:11.0pt;  
+	font-family:"Calibri","sans-serif";  
+	mso-ascii-font-family:Calibri;  
+	mso-ascii-theme-font:minor-latin;  
+	mso-fareast-font-family:宋体;  
+	mso-fareast-theme-font:minor-fareast;  
+	mso-hansi-font-family:Calibri;  
+	mso-hansi-theme-font:minor-latin;  
+	mso-bidi-font-family:"Times New Roman";  
+	mso-bidi-theme-font:minor-bidi;  
+	mso-font-kerning:1.0pt;}  
+.MsoChpDefault  
+	{mso-style-type:export-only;  
+	mso-default-props:yes;  
+	font-family:"Calibri","sans-serif";  
+	mso-bidi-font-family:"Times New Roman";  
+	mso-bidi-theme-font:minor-bidi;}  
+ /\* Page Definitions \*/  
+ @page  
+	{mso-page-border-surround-header:no;  
+	mso-page-border-surround-footer:no;}  
+@page WordSection1  
+	{size:612.0pt 792.0pt;  
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;  
+	mso-header-margin:36.0pt;  
+	mso-footer-margin:36.0pt;  
+	mso-paper-source:0;}  
+div.WordSection1  
+	{page:WordSection1;}  
+--&gt;  
+
+
+“课件”一词来源于英文Courseware，英汉辞典上的解释是：“一种教学软件，专门用于教育和训练的计算机程序。”它是一种根据教学目标设计的，表现特定的教学内容，反映一定教学策略的计算机教学程序。广义地讲，凡是具备一定教学功能的教学软件都可称之为课件。由于课件集合了与教学内容相关的各种媒体，也可以认为是一种课程组件。关于“教学软件”（Introductional Software）的概念，人们的认识有所不同。一种观点认为教学软件就是课件，凡是能够在教学中应用的各类软件就可称之为教学软件。另一种观点认为，教学软件不全是课件，教学软件是一个泛指的概念，它包含了在教学中应用的工具软件和直接作用于教学的课件。如果把教学软件等同于课件，在概念上容易引起混乱，因为，与教学内容无直接关系的工具软件不是专为教学而设计制作的，它具有通用性。
+
+早期的课件往往把教学内容部分跟反映教学策略和程度部分紧密地束缚在一起，是一种封闭式的程序产品，或称教学程序。后来，课件编制工作逐渐转向以写作系统为开发平台，课件制作者主要关心教学内容的组织和媒体化工作，而无须关心编程问题，课件产品变为开放式，即课件的学习材料库与教学控制程序可以单独存在。这时的课件可被看作为结构化的学习材料。
+
+我们认为，所谓课件，就是依据教学大纲，将教学内容利用通用程序设计语言或写作语言编写成可自动运行的课程软件。毫无疑问，课件属于教学软件，它与课程内容有着直接联系。依此类推，所谓多媒体课件简而言之就是辅助教师与学生教学活动的工具，制作者根据教学大纲的要求和教学的需要，经过严格的教学设计，对文本、声音、图像，动画等多媒体素材进行集成，并以多种媒体的表现方式和超文本结构制作而成的课程软件。课件的容量可大可小，一个大的课件可以是一门完整的课程内容，可运行几十课时；小的课件只运行几十分钟，也可更少时间，这类课件在国外称为“堂件”（Lessonware）。
+
+
+
