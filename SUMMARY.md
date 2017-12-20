@@ -19,7 +19,7 @@
 * [第2章  幼儿园多媒体课件素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li.md)
   * 学习目标
   * [2.1 图像素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/21-tu-xiang-su-cai-de-huo-qu-yu-chu-li.md)
-    * 2.1.1图像素材简介
+    * [2.1.1图像素材简介](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/21-tu-xiang-su-cai-de-huo-qu-yu-chu-li/211tu-xiang-su-cai-jian-jie.md)
     * 2.1.2图像的获取与处理
     * 2.1.3图像素材的制作要求
   * [2.2 声音素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/22-sheng-yin-su-cai-de-huo-qu-yu-chu-li.md)
@@ -27,7 +27,7 @@
     * [2.2.2声音的录制与编辑](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/22-sheng-yin-su-cai-de-huo-qu-yu-chu-li/222sheng-yin-de-lu-zhi-yu-bian-ji.md)
     * [2.2.3声音素材的制作要求](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/22-sheng-yin-su-cai-de-huo-qu-yu-chu-li/223sheng-yin-su-cai-de-zhi-zuo-yao-qiu.md)
   * 2.3 动画素材的获取与处理
-    * 2.3.1动画素材简介
+    * [2.3.1动画素材简介](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/231dong-hua-su-cai-jian-jie.md)
     * 2.3.2动画的获取与处理
     * 2.3.3动画素材的制作要求
   * [2.4 视频素材的获取与处理](24-shi-pin-su-cai-de-huo-qu-yu-chu-li.md)
@@ -105,7 +105,7 @@
     * 5.1.3微课制作方法
     * 5.1.4微课制作环境
   * [5.2 制作微课的简单方法](52-zhi-zuo-wei-ke-de-jian-dan-fang-fa.md)
-    * 5.2.1使用手机拍摄微课
+    * [5.2.1使用手机拍摄微课](52-zhi-zuo-wei-ke-de-jian-dan-fang-fa/521shi-yong-shou-ji-pai-she-wei-ke.md)
     * 5.2.2使用Camtasia Studio编辑微课
   * 本章习题
 * 参考文献
