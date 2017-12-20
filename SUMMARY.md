@@ -7,14 +7,15 @@
     * [1.1.1多媒体课件的概念](111duo-mei-ti-ke-jian-de-gai-nian.md)
     * [1.1.2多媒体课件的结构](112duo-mei-ti-ke-jian-de-jie-gou.md)
     * [1.1.3多媒体课件的类型](113duo-mei-ti-ke-jian-de-lei-xing.md)
-  * 1.2幼儿园多媒体课件设计的理论基础
+  * [1.2幼儿园多媒体课件设计的理论基础](12you-er-yuan-duo-mei-ti-ke-jian-she-ji-de-li-lun-ji-chu.md)
     * [1.2.1现代教育思想及其指导意义](121xian-dai-jiao-yu-si-xiang-ji-qi-zhi-dao-yi-yi.md)
     * [1.2.2学习理论及其指导意义](122xue-xi-li-lun-ji-qi-zhi-dao-yi-yi.md)
     * [1.2.3美学理论及其指导意义](123mei-xue-li-lun-ji-qi-zhi-dao-yi-yi.md)
-  * 1.3幼儿园多媒体课件的制作工具、规范和评价
+  * [1.3幼儿园多媒体课件的制作工具、规范和评价](13you-er-yuan-duo-mei-ti-ke-jian-de-zhi-zuo-gong-ju-3001-gui-fan-he-ping-jia.md)
     * [1.3.1幼儿园多媒体课件的制作工具](131you-er-yuan-duo-mei-ti-ke-jian-de-zhi-zuo-gong-ju.md)
     * [1.3.2幼儿园多媒体课件的制作规范](132you-er-yuan-duo-mei-ti-ke-jian-de-zhi-zuo-gui-fan.md)
     * [1.3.3幼儿园多媒体课件的评价](133you-er-yuan-duo-mei-ti-ke-jian-de-ping-jia.md)
+
   * 本章习题
 * [第2章  幼儿园多媒体课件素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li.md)
   * 学习目标
@@ -78,14 +79,14 @@
   * 本章习题
 * 第4章  Flash课件的制作
   * 学习目标
-  * 4.1 Flash简介
+  * [4.1 Flash简介](41-flashjian-jie.md)
     * 4.1.1 Flash的工作环境及界面
     * 4.1.2 Flash的文档操作
-  * 4.2 Flash基本操作
-    * 4.2.1 图层
-    * 4.2.2 帧
-    * 4.2.3 元件和实例
-    * 4.2.4 场景
+  * [4.2 Flash基本操作](42-flashji-ben-cao-zuo.md)
+    * [4.2.1 图层](42-flashji-ben-cao-zuo/421-tu-ceng.md)
+    * [4.2.2 帧](42-flashji-ben-cao-zuo/422-zheng.md)
+    * [4.2.3 元件和实例](42-flashji-ben-cao-zuo/423-yuan-jian-he-shi-li.md)
+    * [4.2.4 场景](42-flashji-ben-cao-zuo/424-chang-jing.md)
   * 4.3 在Flash课件中添加文字、图像和图形
     * 4.3.1制作文本
     * 4.3.2制作图形
