@@ -47,7 +47,7 @@
   * 3.3 在Powerpoint课件中添加影音和图表
     * 3.3.1在课件中添加影音
     * 3.3.2在课件中添加图表
-  * 3.4 Powerpoint课件的美化
+  * [3.4 Powerpoint课件的美化](34-powerpointke-jian-de-mei-hua.md)
     * 3.4.1课件的色彩搭配
     * 3.4.2课件的背景设置
     * 3.4.3课件版式的设置
