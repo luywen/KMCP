@@ -40,10 +40,10 @@
   * 3.1 Powerpoint简介
     * 3.1.1 Powerpoint的工作环境及界面
     * 3.1.2 Powerpoint的文档操作
-  * 3.2 在Powerpoint课件中添加文字、图像和图形
-    * 3.2.1在课件中添加文字
-    * 3.2.2在课件中添加图像
-    * 3.2.3在课件中添加图形
+  * [3.2 在Powerpoint课件中添加文字、图像和图形](32-zai-powerpoint-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing.md)
+    * [3.2.1在课件中添加文字](321zai-ke-jian-zhong-tian-jia-wen-zi.md)
+    * [3.2.2在课件中添加图像](322zai-ke-jian-zhong-tian-jia-tu-xiang.md)
+    * [3.2.3在课件中添加图形](323zai-ke-jian-zhong-tian-jia-tu-xing.md)
   * 3.3 在Powerpoint课件中添加影音和图表
     * 3.3.1在课件中添加影音
     * 3.3.2在课件中添加图表
