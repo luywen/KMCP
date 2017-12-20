@@ -53,9 +53,9 @@
     * 3.4.3课件版式的设置
     * 3.4.4课件主题的调整
     * 3.4.5课件模板的设置
-  * 3.5 Powerpoint课件的动画设置
-    * 3.5.1 Powerpoint课件内部动画的设置
-    * 3.5.2 Powerpoint课件切换动画的设置
+  * [3.5 Powerpoint课件的动画设置](35-powerpointke-jian-de-dong-hua-she-zhi.md)
+    * [3.5.1 Powerpoint课件内部动画的设置](351-powerpointke-jian-nei-bu-dong-hua-de-she-zhi.md)
+    * [3.5.2 Powerpoint课件切换动画的设置](352-powerpointke-jian-qie-huan-dong-hua-de-she-zhi.md)
   * 3.6 使用课件中对象产生交互
     * 3.6.1 使用动作交互
     * 3.6.2 使用超链接设置交互
