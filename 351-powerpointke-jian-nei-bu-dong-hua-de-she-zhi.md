@@ -1,5 +1,3 @@
-
-
 **3.5.1PowerPoint课件内部动画的设置**
 
 打开PowerPoint的菜单栏中的“动画”这一栏，在这里，我们可以给PowerPoint中的元素设置（进入）动画效果，动画效果有：进入，退出与强调以及动作路径四类。除了进入、退出与强调这三种基本动画类型之外，还可以通过动作路径使元素按照你设计的路线进行运动。此外通过“动画”中的动画窗格功能，可以对动画的播放速度，持续时间以及播放先后进行相对精确的控制。
@@ -14,11 +12,11 @@
 
 （2）选中“大”字中的横这一笔画，如图3-5-1所示，选择动画这一栏，点击添加动画，在这里可以选择加入进入，退出以及强调的动画。在这里，我们为了达到教学的效果，所以我们给这一笔画添加“出现”-“擦除”动画（图3-5-2）。
 
-![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wps98A4.tmp.jpg)
+![](/assets/图片1.png)
 
 **图3-5-1“动画”菜单**
 
-![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wps98B5.tmp.jpg)
+![](/assets/图片2.png)
 
 **图3-5-2添加“擦除”效果**
 
@@ -26,31 +24,31 @@
 
 （4）现在，所有的笔画都被加上了动画，下一步，如图3-5-3所示，打开动画菜单栏下的“动画窗格菜单”，在这里我么可以看到我们已经设置过的所有的进入，退出以及其他动画。我们可以用鼠标拖放来改变顺序，在这里我们根据我们的写字习惯，将动画的播放顺序设定为图3-5-4中的“横”，“撇”，“捺”
 
-![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wps98C5.tmp.jpg)![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wps98C6.tmp.jpg)
+![](/assets/图片3.png)![](/assets/图片4.png)
 
 **图3-5-3                  图3-5-4进入“动画窗格”**
 
 （5）右键单击窗格中的动画，如图3-5-5，在“效果选项”中可以对动画的声音，动画方向进行设置。如果是给大批的文字设置动画，则可以在“动画文本”一栏中设置文字是一个字一个字出现还是整批文字同时出现。
 
-![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wps98D7.tmp.jpg)![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wps98D8.tmp.jpg)
+![](/assets/图片5.png)![](/assets/图片6.png)
 
 **图3-5-5                           图3-5-6 “效果” 选项**
 
 （6）如图3-5-7，右键菜单的“计时”选项可以对该动画的时间效果进行控制，“期间”属性可以控制动画的总时长（以秒为单位，可以自行设置），“重复”属性控制动画是否重复。
 
-![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wps98E8.tmp.jpg)![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wps98F9.tmp.jpg)
+![](/assets/图片7.png)![](/assets/图片8.png)
 
 **图3-5-7图3-5-8 “计时” 选项**
 
 （7）此外，如3-5-9所示，计时选项中的“开始”属性可以使动画自动播放，默认情况下，动画的“开始”属性为“单击时”，即每一个动画都需要演示者单机一次才能产生效果，“与上一动画同时”的意思是，在播放上一个动画时，会自动播放该动画，“上一动画之后”的效果为在上一个动画播放完后，会自动播放这一动画。为了让每一笔画按顺序出现，我们将他们的“开始”这一属性都设置为上一动画之后
 
-![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wps98FA.tmp.jpg)
+![](/assets/图片9.png)
 
 **图3-5-9 “单击时”**
 
 （7）如图3-5-10中所示，在动画效果设置完成后，可以通过动画窗格中的播放来进行测试。
 
-![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wps990B.tmp.jpg)
+![](/assets/图片10.png)
 
 **图3-5-10 动画的测试**
 
