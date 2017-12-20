@@ -10,5 +10,7 @@
 
 3.复制场景：单击场景窗口的左下角的复制按钮。
 
-![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wpsFE55.tmp.png)
+![](/assets/4-2-8.png)
+
+
 

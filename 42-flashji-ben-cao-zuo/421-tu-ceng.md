@@ -4,23 +4,31 @@
 
 1.添加图层：打开时间轴窗口-单击左下角的新建按钮（如图4.2-1）
 
-![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wpsE22F.tmp.png)
+![](/assets/4-2-1.png)
+
+
 
 2.选中并删除图层：选中要删除的图层-单击左下角的删除按钮（删除图层后，该图层所包含的对象也会被一并从舞台中删除，所以删除图层时一定要慎重。）（如图4.2-2）
 
-![](/assets/图片2.png)
+![](/assets/4-2-2.png)
 
 3.重命名图层：双击想要重命名的图层进行修改。（如图4.2-3）$$x = y$$
 
-![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wpsE240.tmp.png)
+![](/assets/4-2-3.png)
+
+
 
 4.移动图层：选中并拖动图层即可。
 
 5.锁定图层：选中要锁定的图层-单击后方的锁定按钮。（图层被锁定后，舞台上位于该图层中的对象也被锁定，无法被选中，也无法进行移动和编辑。要解除锁定，单击图层名后的图层按钮即可）。（如图4.2-4）
 
-![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wpsE251.tmp.png)
+![](/assets/4-2-4.png)
+
+
 
 6.隐藏图层：选中要隐藏的图层-单击后方的隐藏/显示按钮。（图层被隐藏后，舞台上位于该图层中的对象被隐藏起来，要显示该图层内容，只需要单击此图层的×按钮即可）（如图4.2-5）
 
-![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wpsE262.tmp.png)
+![](/assets/4-2-5.png)
+
+
 
