@@ -35,11 +35,11 @@
     * 2.4.2视频信息的采集与编辑
     * 2.4.3视频素材的制作要求
   * 本章习题
-* 第3章  Powerpoint课件的制作
+* [第3章  Powerpoint课件的制作](di-3-zhang-powerpoint-ke-jian-de-zhi-zuo.md)
   * 学习目标
-  * 3.1 Powerpoint简介
-    * 3.1.1 Powerpoint的工作环境及界面
-    * 3.1.2 Powerpoint的文档操作
+  * [3.1 Powerpoint简介](di-3-zhang-powerpoint-ke-jian-de-zhi-zuo/31-powerpointjian-jie.md)
+    * [3.1.1 Powerpoint的工作环境及界面](di-3-zhang-powerpoint-ke-jian-de-zhi-zuo/31-powerpointjian-jie/311-powerpointde-gong-zuo-huan-jing-ji-jie-mian.md)
+    * [3.1.2 Powerpoint的文档操作](di-3-zhang-powerpoint-ke-jian-de-zhi-zuo/31-powerpointjian-jie/312-powerpointde-wen-dang-cao-zuo.md)
   * 3.2 在Powerpoint课件中添加文字、图像和图形
     * 3.2.1在课件中添加文字
     * 3.2.2在课件中添加图像
