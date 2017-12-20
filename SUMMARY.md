@@ -1,7 +1,7 @@
 # Summary
 
 * [课程简介](README.md)
-* 第1章  幼儿园多媒体课件概述
+* [第1章  幼儿园多媒体课件概述](di-1-zhang-you-er-yuan-duo-mei-ti-ke-jian-gai-shu.md)
   * [学习目标](xue-xi-mu-biao.md)
   * [1.1幼儿园多媒体课件的概念、结构和类型](11you-er-yuan-duo-mei-ti-ke-jian-de-gai-nian-3001-jie-gou-he-lei-xing.md)
     * [1.1.1多媒体课件的概念](111duo-mei-ti-ke-jian-de-gai-nian.md)
@@ -18,22 +18,22 @@
   * 本章习题
 * 第2章  幼儿园多媒体课件素材的获取与处理
   * 学习目标
-  * 2.1 图像素材的获取与处理
+  * [2.1 图像素材的获取与处理](21-tu-xiang-su-cai-de-huo-qu-yu-chu-li.md)
     * 2.1.1图像素材简介
     * 2.1.2图像的获取与处理
     * 2.1.3图像素材的制作要求
-  * 2.2 声音素材的获取与处理
-    * 2.2.1声音素材简介
+  * [2.2 声音素材的获取与处理](22-sheng-yin-su-cai-de-huo-qu-yu-chu-li.md)
+    * [2.2.1声音素材简介](22-sheng-yin-su-cai-de-huo-qu-yu-chu-li/221sheng-yin-su-cai-jian-jie.md)
     * 2.2.2声音的录制与编辑
     * 2.2.3声音素材的制作要求
   * 2.3 动画素材的获取与处理
     * 2.3.1动画素材简介
     * 2.3.2动画的获取与处理
     * 2.3.3动画素材的制作要求
-  * 2.4 视频素材的获取与处理
-    * 2.4.1视频素材简介
-    * 2.4.2视频信息的采集与编辑
-    * 2.4.3视频素材的制作要求
+  * [2.4 视频素材的获取与处理](24-shi-pin-su-cai-de-huo-qu-yu-chu-li.md)
+    * [2.4.1视频素材简介](24-shi-pin-su-cai-de-huo-qu-yu-chu-li/241shi-pin-su-cai-jian-jie.md)
+    * [2.4.2视频信息的采集与编辑](24-shi-pin-su-cai-de-huo-qu-yu-chu-li/242shi-pin-xin-xi-de-cai-ji-yu-bian-ji.md)
+    * [2.4.3视频素材的制作要求](24-shi-pin-su-cai-de-huo-qu-yu-chu-li/243shi-pin-su-cai-de-zhi-zuo-yao-qiu.md)
   * 本章习题
 * 第3章  Powerpoint课件的制作
   * 学习目标
