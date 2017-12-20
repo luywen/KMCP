@@ -74,7 +74,7 @@
     * 3.9.4设置保护
     * 3.9.5打印课件
   * 本章习题
-* 第4章  Flash课件的制作
+* [第4章  Flash课件的制作](di-4-zhang-flash-ke-jian-de-zhi-zuo.md)
   * 学习目标
   * 4.1 Flash简介
     * 4.1.1 Flash的工作环境及界面
@@ -91,7 +91,7 @@
   * 4.4 在Flash课件中添加音频和视频
     * 4.4.1声音的应用
     * 4.4.2视频的应用
-  * 4.5 利用逐帧动画制作课件
+  * [4.5 利用逐帧动画制作课件](di-4-zhang-flash-ke-jian-de-zhi-zuo/45-li-yong-zhu-zheng-dong-hua-zhi-zuo-ke-jian.md)
   * 4.6 利用形状补间动画制作课件
   * 4.7 利用运动补间动画制作课件
   * 4.8 利用引导线动画制作课件
