@@ -56,7 +56,7 @@
   * 3.5 Powerpoint课件的动画设置
     * 3.5.1 Powerpoint课件内部动画的设置
     * 3.5.2 Powerpoint课件切换动画的设置
-  * 3.6 使用课件中对象产生交互
+  * [3.6 使用课件中对象产生交互](36-shi-yong-ke-jian-zhong-dui-xiang-chan-sheng-jiao-hu.md)
     * 3.6.1 使用动作交互
     * 3.6.2 使用超链接设置交互
     * 3.6.3 使用动作按钮交互
