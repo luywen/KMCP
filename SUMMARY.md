@@ -15,27 +15,30 @@
     * [1.3.1幼儿园多媒体课件的制作工具](131you-er-yuan-duo-mei-ti-ke-jian-de-zhi-zuo-gong-ju.md)
     * [1.3.2幼儿园多媒体课件的制作规范](132you-er-yuan-duo-mei-ti-ke-jian-de-zhi-zuo-gui-fan.md)
     * [1.3.3幼儿园多媒体课件的评价](133you-er-yuan-duo-mei-ti-ke-jian-de-ping-jia.md)
-  * [本章习题](ben-zhang-xi-ti.md)
+
+  * 本章习题
 * [第2章  幼儿园多媒体课件素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li.md)
-  * [学习目标](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/xue-xi-mu-biao.md)
+  * 学习目标
+
   * [2.1 图像素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/21-tu-xiang-su-cai-de-huo-qu-yu-chu-li.md)
     * 2.1.1图像素材简介
     * 2.1.2图像的获取与处理
     * 2.1.3图像素材的制作要求
-  * 2.2 声音素材的获取与处理
+  * [2.2 声音素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/22-sheng-yin-su-cai-de-huo-qu-yu-chu-li.md)
     * 2.2.1声音素材简介
+
     * 2.2.2声音的录制与编辑
     * 2.2.3声音素材的制作要求
   * 2.3 动画素材的获取与处理
     * 2.3.1动画素材简介
     * 2.3.2动画的获取与处理
     * 2.3.3动画素材的制作要求
-  * 2.4 视频素材的获取与处理
-    * 2.4.1视频素材简介
-    * 2.4.2视频信息的采集与编辑
-    * 2.4.3视频素材的制作要求
+  * [2.4 视频素材的获取与处理](24-shi-pin-su-cai-de-huo-qu-yu-chu-li.md)
+    * [2.4.1视频素材简介](24-shi-pin-su-cai-de-huo-qu-yu-chu-li/241shi-pin-su-cai-jian-jie.md)
+    * [2.4.2视频信息的采集与编辑](24-shi-pin-su-cai-de-huo-qu-yu-chu-li/242shi-pin-xin-xi-de-cai-ji-yu-bian-ji.md)
+    * [2.4.3视频素材的制作要求](24-shi-pin-su-cai-de-huo-qu-yu-chu-li/243shi-pin-su-cai-de-zhi-zuo-yao-qiu.md)
   * 本章习题
-* 第3章  Powerpoint课件的制作
+* [第3章  Powerpoint课件的制作](di-3-zhang-powerpoint-ke-jian-de-zhi-zuo.md)
   * 学习目标
   * 3.1 Powerpoint简介
     * 3.1.1 Powerpoint的工作环境及界面
@@ -47,15 +50,15 @@
   * 3.3 在Powerpoint课件中添加影音和图表
     * 3.3.1在课件中添加影音
     * 3.3.2在课件中添加图表
-  * 3.4 Powerpoint课件的美化
+  * [3.4 Powerpoint课件的美化](34-powerpointke-jian-de-mei-hua.md)
     * 3.4.1课件的色彩搭配
     * 3.4.2课件的背景设置
     * 3.4.3课件版式的设置
     * 3.4.4课件主题的调整
     * 3.4.5课件模板的设置
-  * 3.5 Powerpoint课件的动画设置
-    * 3.5.1 Powerpoint课件内部动画的设置
-    * 3.5.2 Powerpoint课件切换动画的设置
+  * [3.5 Powerpoint课件的动画设置](35-powerpointke-jian-de-dong-hua-she-zhi.md)
+    * [3.5.1 Powerpoint课件内部动画的设置](351-powerpointke-jian-nei-bu-dong-hua-de-she-zhi.md)
+    * [3.5.2 Powerpoint课件切换动画的设置](352-powerpointke-jian-qie-huan-dong-hua-de-she-zhi.md)
   * 3.6 使用课件中对象产生交互
     * 3.6.1 使用动作交互
     * 3.6.2 使用超链接设置交互
@@ -94,17 +97,17 @@
   * 4.5 利用逐帧动画制作课件
   * 4.6 利用形状补间动画制作课件
   * 4.7 利用运动补间动画制作课件
-  * 4.8 利用引导线动画制作课件
+  * [4.8 利用引导线动画制作课件](48-li-yong-yin-dao-xian-dong-hua-zhi-zuo-ke-jian.md)
   * 4.9 利用遮罩动画制作课件
   * 本章习题
-* 第5章  微课型课件的制作
+* [第5章  微课型课件的制作](di-5-zhang-wei-ke-xing-ke-jian-de-zhi-zuo.md)
   * 学习目标
   * 5.1 微课概述
     * 5.1.1微课的概念
     * 5.1.2微课制作流程
     * 5.1.3微课制作方法
     * 5.1.4微课制作环境
-  * 5.2 制作微课的简单方法
+  * [5.2 制作微课的简单方法](52-zhi-zuo-wei-ke-de-jian-dan-fang-fa.md)
     * 5.2.1使用手机拍摄微课
     * 5.2.2使用Camtasia Studio编辑微课
   * 本章习题
