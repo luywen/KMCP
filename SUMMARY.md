@@ -35,7 +35,7 @@
     * 2.4.2视频信息的采集与编辑
     * 2.4.3视频素材的制作要求
   * 本章习题
-* 第3章  Powerpoint课件的制作
+* [第3章  Powerpoint课件的制作](di-3-zhang-powerpoint-ke-jian-de-zhi-zuo.md)
   * 学习目标
   * 3.1 Powerpoint简介
     * 3.1.1 Powerpoint的工作环境及界面
@@ -94,10 +94,10 @@
   * 4.5 利用逐帧动画制作课件
   * 4.6 利用形状补间动画制作课件
   * 4.7 利用运动补间动画制作课件
-  * 4.8 利用引导线动画制作课件
+  * [4.8 利用引导线动画制作课件](48-li-yong-yin-dao-xian-dong-hua-zhi-zuo-ke-jian.md)
   * 4.9 利用遮罩动画制作课件
   * 本章习题
-* 第5章  微课型课件的制作
+* [第5章  微课型课件的制作](di-5-zhang-wei-ke-xing-ke-jian-de-zhi-zuo.md)
   * 学习目标
   * 5.1 微课概述
     * 5.1.1微课的概念
