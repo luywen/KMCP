@@ -99,11 +99,11 @@
   * 本章习题
 * 第5章  微课型课件的制作
   * 学习目标
-  * 5.1 微课概述
-    * 5.1.1微课的概念
-    * 5.1.2微课制作流程
-    * 5.1.3微课制作方法
-    * 5.1.4微课制作环境
+  * [5.1 微课概述](51-wei-ke-gai-shu.md)
+    * [5.1.1微课的概念](51-wei-ke-gai-shu/511wei-ke-de-gai-nian.md)
+    * [5.1.2微课制作流程](51-wei-ke-gai-shu/512wei-ke-zhi-zuo-liu-cheng.md)
+    * [5.1.3微课制作方法](51-wei-ke-gai-shu/513wei-ke-zhi-zuo-fang-fa.md)
+    * [5.1.4微课制作环境](51-wei-ke-gai-shu/514wei-ke-zhi-zuo-huan-jing.md)
   * 5.2 制作微课的简单方法
     * 5.2.1使用手机拍摄微课
     * 5.2.2使用Camtasia Studio编辑微课
