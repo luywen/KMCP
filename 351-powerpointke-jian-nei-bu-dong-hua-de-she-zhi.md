@@ -1,56 +1,10 @@
-  
-@font-face{  
-font-family:"Times New Roman";  
-}  
-  
-@font-face{  
-font-family:"宋体";  
-}  
-  
-@font-face{  
-font-family:"等线";  
-}  
-  
-p.MsoNormal{  
-mso-style-name:正文;  
-mso-style-parent:"";  
-margin:0pt;  
-margin-bottom:.0001pt;  
-mso-pagination:none;  
-text-align:justify;  
-text-justify:inter-ideograph;  
-font-family:等线;  
-mso-bidi-font-family:'Times New Roman';  
-font-size:10.5000pt;  
-mso-font-kerning:1.0000pt;  
-}  
-  
-span.msoIns{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:underline;  
-text-underline:single;  
-color:blue;  
-}  
-  
-span.msoDel{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:line-through;  
-color:red;  
-}  
-@page{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}@page Section0{  
-}  
-div.Section0{page:Section0;}
+
 
 **3.5.1PowerPoint课件内部动画的设置**
 
 打开PowerPoint的菜单栏中的“动画”这一栏，在这里，我们可以给PowerPoint中的元素设置（进入）动画效果，动画效果有：进入，退出与强调以及动作路径四类。除了进入、退出与强调这三种基本动画类型之外，还可以通过动作路径使元素按照你设计的路线进行运动。此外通过“动画”中的动画窗格功能，可以对动画的播放速度，持续时间以及播放先后进行相对精确的控制。
 
 在这一部分，我们将使用PowerPoint中的动画效果制作“写字”特效来对在幻灯片中加入动画的方法以及使用“动画窗格”来精确控制动画效果的先后顺序进行讲解
-
-
 
 **示例一：用动画制作“写字”效果**
 
@@ -68,23 +22,19 @@ div.Section0{page:Section0;}
 
 **图3-5-2添加“擦除”效果**
 
-
-
 （3）以此类推，给“大”字的每一笔都添加动画
 
 （4）现在，所有的笔画都被加上了动画，下一步，如图3-5-3所示，打开动画菜单栏下的“动画窗格菜单”，在这里我么可以看到我们已经设置过的所有的进入，退出以及其他动画。我们可以用鼠标拖放来改变顺序，在这里我们根据我们的写字习惯，将动画的播放顺序设定为图3-5-4中的“横”，“撇”，“捺”
 
 ![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wps98C5.tmp.jpg)![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wps98C6.tmp.jpg)
 
-**图3-5-3                  图3-5-4进入“动画窗格”**
-
-
+**图3-5-3                  图3-5-4进入“动画窗格”**
 
 （5）右键单击窗格中的动画，如图3-5-5，在“效果选项”中可以对动画的声音，动画方向进行设置。如果是给大批的文字设置动画，则可以在“动画文本”一栏中设置文字是一个字一个字出现还是整批文字同时出现。
 
 ![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wps98D7.tmp.jpg)![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wps98D8.tmp.jpg)
 
-**图3-5-5                           图3-5-6 “效果” 选项**
+**图3-5-5                           图3-5-6 “效果” 选项**
 
 （6）如图3-5-7，右键菜单的“计时”选项可以对该动画的时间效果进行控制，“期间”属性可以控制动画的总时长（以秒为单位，可以自行设置），“重复”属性控制动画是否重复。
 
@@ -93,8 +43,6 @@ div.Section0{page:Section0;}
 **图3-5-7图3-5-8 “计时” 选项**
 
 （7）此外，如3-5-9所示，计时选项中的“开始”属性可以使动画自动播放，默认情况下，动画的“开始”属性为“单击时”，即每一个动画都需要演示者单机一次才能产生效果，“与上一动画同时”的意思是，在播放上一个动画时，会自动播放该动画，“上一动画之后”的效果为在上一个动画播放完后，会自动播放这一动画。为了让每一笔画按顺序出现，我们将他们的“开始”这一属性都设置为上一动画之后
-
-
 
 ![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wps98FA.tmp.jpg)
 
@@ -106,9 +54,5 @@ div.Section0{page:Section0;}
 
 **图3-5-10 动画的测试**
 
-
-
 此外，我们还可以通过设置触发器来实现通过某一对象控制另一对象的动画效果的播放与停止此类的效果，关于触发器的添加与使用方法，我们将在“3.8触发器的设置”这一章中讲到。
-
-
 
