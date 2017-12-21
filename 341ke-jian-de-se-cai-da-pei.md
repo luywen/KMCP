@@ -1,76 +1,133 @@
-  
-@font-face{  
-font-family:"Times New Roman";  
-}  
-  
-@font-face{  
-font-family:"宋体";  
-}  
-  
-@font-face{  
-font-family:"Calibri";  
-}  
-  
-@font-face{  
-font-family:"Arial";  
-}  
-  
-@font-face{  
-font-family:"黑体";  
-}  
-  
-p.MsoNormal{  
-mso-style-name:正文;  
-mso-style-parent:"";  
-margin:0pt;  
-margin-bottom:.0001pt;  
-mso-pagination:none;  
-text-align:justify;  
-text-justify:inter-ideograph;  
-font-family:Calibri;  
-mso-fareast-font-family:宋体;  
-mso-bidi-font-family:'Times New Roman';  
-font-size:10.5000pt;  
-mso-font-kerning:1.0000pt;  
-}  
-  
-h3{  
-mso-style-name:"标题 3";  
-mso-style-noshow:yes;  
-mso-style-next:正文;  
-margin:0pt;  
-margin-bottom:.0001pt;  
-mso-layout-grid-align:none;  
-page-break-after:avoid;  
-mso-pagination:lines-together;  
-text-align:justify;  
-text-justify:inter-ideograph;  
-mso-outline-level:3;  
-line-height:200%;  
-font-family:Arial;  
-mso-fareast-font-family:黑体;  
-mso-bidi-font-family:'Times New Roman';  
-font-size:12.0000pt;  
-mso-font-kerning:1.0000pt;  
-}  
-  
-span.msoIns{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:underline;  
-text-underline:single;  
-color:blue;  
-}  
-  
-span.msoDel{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:line-through;  
-color:red;  
-}  
-@page{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}@page Section0{  
-}  
+@font-face{
+
+font-family:"Times New Roman";
+
+}
+
+@font-face{
+
+font-family:"宋体";
+
+}
+
+@font-face{
+
+font-family:"Calibri";
+
+}
+
+@font-face{
+
+font-family:"Arial";
+
+}
+
+@font-face{
+
+font-family:"黑体";
+
+}
+
+p.MsoNormal{
+
+mso-style-name:正文;
+
+mso-style-parent:"";
+
+margin:0pt;
+
+margin-bottom:.0001pt;
+
+mso-pagination:none;
+
+text-align:justify;
+
+text-justify:inter-ideograph;
+
+font-family:Calibri;
+
+mso-fareast-font-family:宋体;
+
+mso-bidi-font-family:'Times New Roman';
+
+font-size:10.5000pt;
+
+mso-font-kerning:1.0000pt;
+
+}
+
+h3{
+
+mso-style-name:"标题 3";
+
+mso-style-noshow:yes;
+
+mso-style-next:正文;
+
+margin:0pt;
+
+margin-bottom:.0001pt;
+
+mso-layout-grid-align:none;
+
+page-break-after:avoid;
+
+mso-pagination:lines-together;
+
+text-align:justify;
+
+text-justify:inter-ideograph;
+
+mso-outline-level:3;
+
+line-height:200%;
+
+font-family:Arial;
+
+mso-fareast-font-family:黑体;
+
+mso-bidi-font-family:'Times New Roman';
+
+font-size:12.0000pt;
+
+mso-font-kerning:1.0000pt;
+
+}
+
+span.msoIns{
+
+mso-style-type:export-only;
+
+mso-style-name:"";
+
+text-decoration:underline;
+
+text-underline:single;
+
+color:blue;
+
+}
+
+span.msoDel{
+
+mso-style-type:export-only;
+
+mso-style-name:"";
+
+text-decoration:line-through;
+
+color:red;
+
+}
+
+@page{mso-page-border-surround-header:no;
+
+```
+mso-page-border-surround-footer:no;}@page Section0{
+```
+
+}
+
 div.Section0{page:Section0;}
 
 ### **3.4.1课件的色彩搭配**
@@ -91,13 +148,13 @@ div.Section0{page:Section0;}
 
 ![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wpsB2EB.tmp.jpg)
 
-图3-4-4 不推荐的颜色搭配
+图3-4-4 **不推荐的颜色搭配**
 
 色环中相距135°的两个颜色为对比色关系，属于中强对比效果的色组。这种对比效果也很明显，可以清楚的看到文本，但不会觉得很扎眼，非常适合文字与背景的色彩对比。如图3-3-8所示，红色的形状背景搭配135°对角线的蓝色和黄色，看起来还是比较“和谐”。
 
 ![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wpsB2EC.tmp.jpg)
 
-图3-4-5 推荐的颜色搭配
+图3-4-5 **推荐的颜色搭配**
 
 在众多课件制作的书籍中，李治在色彩搭配这一块，可谓是“泰斗”。她推荐了几个常用的颜色搭配：
 
