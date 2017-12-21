@@ -51,7 +51,7 @@
     * [3.4.1课件的色彩搭配](341ke-jian-de-se-cai-da-pei.md)
     * [3.4.2课件的背景设置](342ke-jian-de-bei-jing-she-zhi.md)
     * [3.4.3课件版式的设置](343ke-jian-ban-shi-de-she-zhi.md)
-    * 3.4.4课件主题的调整
+    * [3.4.4课件主题的调整](344ke-jian-zhu-ti-de-diao-zheng.md)
     * 3.4.5课件模板的设置
   * 3.5 Powerpoint课件的动画设置
     * 3.5.1 Powerpoint课件内部动画的设置
