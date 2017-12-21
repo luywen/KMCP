@@ -74,7 +74,7 @@
     * 3.9.4设置保护
     * 3.9.5打印课件
   * 本章习题
-* 第4章  Flash课件的制作
+* [第4章  Flash课件的制作](di-4-zhang-flash-ke-jian-de-zhi-zuo.md)
   * 学习目标
   * [4.1 Flash简介](41-flashjian-jie.md)
     * 4.1.1 Flash的工作环境及界面
@@ -100,13 +100,16 @@
 * [第5章  微课型课件的制作](di-5-zhang-wei-ke-xing-ke-jian-de-zhi-zuo.md)
   * 学习目标
   * [5.1 微课概述](51-wei-ke-gai-shu.md)
-    * 5.1.1微课的概念
-    * 5.1.2微课制作流程
-    * 5.1.3微课制作方法
-    * 5.1.4微课制作环境
+
+    * [5.1.1微课的概念](51-wei-ke-gai-shu/511wei-ke-de-gai-nian.md)
+    * [5.1.2微课制作流程](51-wei-ke-gai-shu/512wei-ke-zhi-zuo-liu-cheng.md)
+    * [5.1.3微课制作方法](51-wei-ke-gai-shu/513wei-ke-zhi-zuo-fang-fa.md)
+    * [5.1.4微课制作环境](51-wei-ke-gai-shu/514wei-ke-zhi-zuo-huan-jing.md)
+ 
   * [5.2 制作微课的简单方法](52-zhi-zuo-wei-ke-de-jian-dan-fang-fa.md)
     * [5.2.1使用手机拍摄微课](52-zhi-zuo-wei-ke-de-jian-dan-fang-fa/521shi-yong-shou-ji-pai-she-wei-ke.md)
     * [5.2.2使用Camtasia Studio编辑微课](52-zhi-zuo-wei-ke-de-jian-dan-fang-fa/522shi-yong-camtasia-studio-bian-ji-wei-ke.md)
+
   * 本章习题
 * 参考文献
 
