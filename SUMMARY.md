@@ -88,9 +88,9 @@
     * 4.3.1制作文本
     * 4.3.2制作图形
     * 4.3.3位图的应用
-  * 4.4 在Flash课件中添加音频和视频
-    * 4.4.1声音的应用
-    * 4.4.2视频的应用
+  * [4.4 在Flash课件中添加音频和视频](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin.md)
+    * [4.4.1声音的应用](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin/441sheng-yin-de-ying-yong.md)
+    * [4.4.2视频的应用](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin/442shi-pin-de-ying-yong.md)
   * 4.5 利用逐帧动画制作课件
   * 4.6 利用形状补间动画制作课件
   * 4.7 利用运动补间动画制作课件
@@ -108,5 +108,5 @@
     * 5.2.1使用手机拍摄微课
     * 5.2.2使用Camtasia Studio编辑微课
   * 本章习题
-* 参考文献
+* [参考文献](can-kao-wen-xian.md)
 
