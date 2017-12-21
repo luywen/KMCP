@@ -38,8 +38,8 @@
 * 第3章  Powerpoint课件的制作
   * 学习目标
   * 3.1 Powerpoint简介
-    * 3.1.1 Powerpoint的工作环境及界面
-    * 3.1.2 Powerpoint的文档操作
+    * [3.1.1 Powerpoint的工作环境及界面](311-powerpointde-gong-zuo-huan-jing-ji-jie-mian.md)
+    * [3.1.2 Powerpoint的文档操作](312-powerpointde-wen-dang-cao-zuo.md)
   * 3.2 在Powerpoint课件中添加文字、图像和图形
     * 3.2.1在课件中添加文字
     * 3.2.2在课件中添加图像
