@@ -1,213 +1,3 @@
-&lt;!--  
- /\* Font Definitions \*/  
- @font-face  
-	{font-family:"Cambria Math";  
-	panose-1:0 0 0 0 0 0 0 0 0 0;  
-	mso-font-charset:1;  
-	mso-generic-font-family:roman;  
-	mso-font-pitch:variable;  
-	mso-font-signature:0 0 0 0 0 0;}  
-@font-face  
-	{font-family:等线;  
-	panose-1:2 1 6 0 3 1 1 1 1 1;  
-	mso-font-alt:DengXian;  
-	mso-font-charset:134;  
-	mso-generic-font-family:auto;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-1610612033 953122042 22 0 262159 0;}  
-@font-face  
-	{font-family:"\@等线";  
-	panose-1:2 1 6 0 3 1 1 1 1 1;  
-	mso-font-charset:134;  
-	mso-generic-font-family:auto;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-1610612033 953122042 22 0 262159 0;}  
- /\* Style Definitions \*/  
- p.MsoNormal, li.MsoNormal, div.MsoNormal  
-	{mso-style-unhide:no;  
-	mso-style-qformat:yes;  
-	mso-style-parent:"";  
-	margin:0cm;  
-	margin-bottom:.0001pt;  
-	text-align:justify;  
-	text-justify:inter-ideograph;  
-	mso-pagination:none;  
-	font-size:10.5pt;  
-	mso-bidi-font-size:11.0pt;  
-	font-family:等线;  
-	mso-ascii-font-family:等线;  
-	mso-ascii-theme-font:minor-latin;  
-	mso-fareast-font-family:等线;  
-	mso-fareast-theme-font:minor-fareast;  
-	mso-hansi-font-family:等线;  
-	mso-hansi-theme-font:minor-latin;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;  
-	mso-font-kerning:1.0pt;}  
-p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph  
-	{mso-style-priority:34;  
-	mso-style-unhide:no;  
-	mso-style-qformat:yes;  
-	margin:0cm;  
-	margin-bottom:.0001pt;  
-	text-align:justify;  
-	text-justify:inter-ideograph;  
-	text-indent:21.0pt;  
-	mso-char-indent-count:2.0;  
-	mso-pagination:none;  
-	font-size:10.5pt;  
-	mso-bidi-font-size:11.0pt;  
-	font-family:等线;  
-	mso-ascii-font-family:等线;  
-	mso-ascii-theme-font:minor-latin;  
-	mso-fareast-font-family:等线;  
-	mso-fareast-theme-font:minor-fareast;  
-	mso-hansi-font-family:等线;  
-	mso-hansi-theme-font:minor-latin;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;  
-	mso-font-kerning:1.0pt;}  
-.MsoChpDefault  
-	{mso-style-type:export-only;  
-	mso-default-props:yes;  
-	font-family:等线;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;}  
- /\* Page Definitions \*/  
- @page  
-	{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}  
-@page WordSection1  
-	{size:595.3pt 841.9pt;  
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;  
-	mso-header-margin:42.55pt;  
-	mso-footer-margin:49.6pt;  
-	mso-paper-source:0;  
-	layout-grid:15.6pt;}  
-div.WordSection1  
-	{page:WordSection1;}  
- /\* List Definitions \*/  
- @list l0  
-	{mso-list-id:843740311;  
-	mso-list-type:hybrid;  
-	mso-list-template-ids:623126012 -1796583092 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}  
-@list l0:level1  
-	{mso-level-text:%1）;  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	text-indent:-36.0pt;}  
-@list l0:level2  
-	{mso-level-number-format:alpha-lower;  
-	mso-level-text:"%2\\)";  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	margin-left:42.0pt;  
-	text-indent:-21.0pt;}  
-@list l0:level3  
-	{mso-level-number-format:roman-lower;  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:right;  
-	margin-left:63.0pt;  
-	text-indent:-21.0pt;}  
-@list l0:level4  
-	{mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	margin-left:84.0pt;  
-	text-indent:-21.0pt;}  
-@list l0:level5  
-	{mso-level-number-format:alpha-lower;  
-	mso-level-text:"%5\\)";  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	margin-left:105.0pt;  
-	text-indent:-21.0pt;}  
-@list l0:level6  
-	{mso-level-number-format:roman-lower;  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:right;  
-	margin-left:126.0pt;  
-	text-indent:-21.0pt;}  
-@list l0:level7  
-	{mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	margin-left:147.0pt;  
-	text-indent:-21.0pt;}  
-@list l0:level8  
-	{mso-level-number-format:alpha-lower;  
-	mso-level-text:"%8\\)";  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	margin-left:168.0pt;  
-	text-indent:-21.0pt;}  
-@list l0:level9  
-	{mso-level-number-format:roman-lower;  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:right;  
-	margin-left:189.0pt;  
-	text-indent:-21.0pt;}  
-@list l1  
-	{mso-list-id:1808669156;  
-	mso-list-type:hybrid;  
-	mso-list-template-ids:-2073646464 -99169614 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}  
-@list l1:level1  
-	{mso-level-text:%1）;  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	text-indent:-36.0pt;}  
-@list l1:level2  
-	{mso-level-number-format:alpha-lower;  
-	mso-level-text:"%2\\)";  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	margin-left:42.0pt;  
-	text-indent:-21.0pt;}  
-@list l1:level3  
-	{mso-level-number-format:roman-lower;  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:right;  
-	margin-left:63.0pt;  
-	text-indent:-21.0pt;}  
-@list l1:level4  
-	{mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	margin-left:84.0pt;  
-	text-indent:-21.0pt;}  
-@list l1:level5  
-	{mso-level-number-format:alpha-lower;  
-	mso-level-text:"%5\\)";  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	margin-left:105.0pt;  
-	text-indent:-21.0pt;}  
-@list l1:level6  
-	{mso-level-number-format:roman-lower;  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:right;  
-	margin-left:126.0pt;  
-	text-indent:-21.0pt;}  
-@list l1:level7  
-	{mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	margin-left:147.0pt;  
-	text-indent:-21.0pt;}  
-@list l1:level8  
-	{mso-level-number-format:alpha-lower;  
-	mso-level-text:"%8\\)";  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	margin-left:168.0pt;  
-	text-indent:-21.0pt;}  
-@list l1:level9  
-	{mso-level-number-format:roman-lower;  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:right;  
-	margin-left:189.0pt;  
-	text-indent:-21.0pt;}  
-ol  
-	{margin-bottom:0cm;}  
-ul  
-	{margin-bottom:0cm;}  
---&gt;  
 
 
 **3.1.2 PowerPoint的文档操作**
@@ -272,5 +62,5 @@ ul
 
 这里介绍的很多操作只是PowerPoint文档操作的一部分，如要掌握更多的操作，需要读者多加练习
 
- /Us3��h�
+/Us3��h�
 

@@ -1,154 +1,3 @@
-&lt;!--  
- /\* Font Definitions \*/  
- @font-face  
-	{font-family:"Cambria Math";  
-	panose-1:0 0 0 0 0 0 0 0 0 0;  
-	mso-font-charset:1;  
-	mso-generic-font-family:roman;  
-	mso-font-pitch:variable;  
-	mso-font-signature:0 0 0 0 0 0;}  
-@font-face  
-	{font-family:等线;  
-	panose-1:2 1 6 0 3 1 1 1 1 1;  
-	mso-font-alt:DengXian;  
-	mso-font-charset:134;  
-	mso-generic-font-family:auto;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-1610612033 953122042 22 0 262159 0;}  
-@font-face  
-	{font-family:"\@等线";  
-	panose-1:2 1 6 0 3 1 1 1 1 1;  
-	mso-font-charset:134;  
-	mso-generic-font-family:auto;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-1610612033 953122042 22 0 262159 0;}  
- /\* Style Definitions \*/  
- p.MsoNormal, li.MsoNormal, div.MsoNormal  
-	{mso-style-unhide:no;  
-	mso-style-qformat:yes;  
-	mso-style-parent:"";  
-	margin:0cm;  
-	margin-bottom:.0001pt;  
-	text-align:justify;  
-	text-justify:inter-ideograph;  
-	mso-pagination:none;  
-	font-size:10.5pt;  
-	mso-bidi-font-size:11.0pt;  
-	font-family:等线;  
-	mso-ascii-font-family:等线;  
-	mso-ascii-theme-font:minor-latin;  
-	mso-fareast-font-family:等线;  
-	mso-fareast-theme-font:minor-fareast;  
-	mso-hansi-font-family:等线;  
-	mso-hansi-theme-font:minor-latin;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;  
-	mso-font-kerning:1.0pt;}  
-p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph  
-	{mso-style-priority:34;  
-	mso-style-unhide:no;  
-	mso-style-qformat:yes;  
-	margin:0cm;  
-	margin-bottom:.0001pt;  
-	text-align:justify;  
-	text-justify:inter-ideograph;  
-	text-indent:21.0pt;  
-	mso-char-indent-count:2.0;  
-	mso-pagination:none;  
-	font-size:10.5pt;  
-	mso-bidi-font-size:11.0pt;  
-	font-family:等线;  
-	mso-ascii-font-family:等线;  
-	mso-ascii-theme-font:minor-latin;  
-	mso-fareast-font-family:等线;  
-	mso-fareast-theme-font:minor-fareast;  
-	mso-hansi-font-family:等线;  
-	mso-hansi-theme-font:minor-latin;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;  
-	mso-font-kerning:1.0pt;}  
-.MsoChpDefault  
-	{mso-style-type:export-only;  
-	mso-default-props:yes;  
-	font-family:等线;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;}  
- /\* Page Definitions \*/  
- @page  
-	{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}  
-@page WordSection1  
-	{size:612.0pt 792.0pt;  
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;  
-	mso-header-margin:36.0pt;  
-	mso-footer-margin:36.0pt;  
-	mso-paper-source:0;}  
-div.WordSection1  
-	{page:WordSection1;}  
- /\* List Definitions \*/  
- @list l0  
-	{mso-list-id:711424466;  
-	mso-list-type:hybrid;  
-	mso-list-template-ids:-486228622 1964395666 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}  
-@list l0:level1  
-	{mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	margin-left:18.0pt;  
-	text-indent:-18.0pt;}  
-@list l0:level2  
-	{mso-level-number-format:alpha-lower;  
-	mso-level-text:"%2\\)";  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	margin-left:42.0pt;  
-	text-indent:-21.0pt;}  
-@list l0:level3  
-	{mso-level-number-format:roman-lower;  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:right;  
-	margin-left:63.0pt;  
-	text-indent:-21.0pt;}  
-@list l0:level4  
-	{mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	margin-left:84.0pt;  
-	text-indent:-21.0pt;}  
-@list l0:level5  
-	{mso-level-number-format:alpha-lower;  
-	mso-level-text:"%5\\)";  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	margin-left:105.0pt;  
-	text-indent:-21.0pt;}  
-@list l0:level6  
-	{mso-level-number-format:roman-lower;  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:right;  
-	margin-left:126.0pt;  
-	text-indent:-21.0pt;}  
-@list l0:level7  
-	{mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	margin-left:147.0pt;  
-	text-indent:-21.0pt;}  
-@list l0:level8  
-	{mso-level-number-format:alpha-lower;  
-	mso-level-text:"%8\\)";  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:left;  
-	margin-left:168.0pt;  
-	text-indent:-21.0pt;}  
-@list l0:level9  
-	{mso-level-number-format:roman-lower;  
-	mso-level-tab-stop:none;  
-	mso-level-number-position:right;  
-	margin-left:189.0pt;  
-	text-indent:-21.0pt;}  
-ol  
-	{margin-bottom:0cm;}  
-ul  
-	{margin-bottom:0cm;}  
---&gt;  
 
 
 **3.1.1 PowerPoint的工作环境及界面**
@@ -175,7 +24,7 @@ ul
 
 **6.“开始”选项卡**
 
- PowerPoint软件启动后，系统默认显示“开始”选项卡，如图3所示，其中包括的组有:“剪贴板”、“幻灯片”、“字体”、“段落”、“绘图”和“编辑”，每个组中都包含相关的命令。将鼠标指针移动至某个命令图标，该图标会呈现黄色高亮显示，稍后下方会出现命令说明提示框，单击可以执行该命令，完成相应的操作。
+PowerPoint软件启动后，系统默认显示“开始”选项卡，如图3所示，其中包括的组有:“剪贴板”、“幻灯片”、“字体”、“段落”、“绘图”和“编辑”，每个组中都包含相关的命令。将鼠标指针移动至某个命令图标，该图标会呈现黄色高亮显示，稍后下方会出现命令说明提示框，单击可以执行该命令，完成相应的操作。
 
 **7.“幻灯片”选项卡**
 
@@ -205,5 +54,5 @@ ul
 
 在状态栏的最右端是显示比例控制区，此区域有【缩放级别】按钮、【缩小】按钮、【放大】按钮、【适应窗口】按钮和调整比例滑块。其中，单击【缩放级别】按钮时，可打开【缩放比例】对话框；单击【适应窗口】按钮，可使幻灯片适应当前窗口大小。
 
- �Y���
+�Y���
 
