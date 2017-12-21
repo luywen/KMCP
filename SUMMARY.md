@@ -105,7 +105,7 @@
     * [5.1.3微课制作方法](51-wei-ke-gai-shu/513wei-ke-zhi-zuo-fang-fa.md)
     * [5.1.4微课制作环境](51-wei-ke-gai-shu/514wei-ke-zhi-zuo-huan-jing.md)
   * 5.2 制作微课的简单方法
-    * 5.2.1使用手机拍摄微课
+    * [5.2.1使用手机拍摄微课](521shi-yong-shou-ji-pai-she-wei-ke.md)
     * 5.2.2使用Camtasia Studio编辑微课
   * 本章习题
 * 参考文献
