@@ -97,7 +97,7 @@
   * 4.8 利用引导线动画制作课件
   * 4.9 利用遮罩动画制作课件
   * 本章习题
-* 第5章  微课型课件的制作
+* [第5章  微课型课件的制作](di-5-zhang-wei-ke-xing-ke-jian-de-zhi-zuo.md)
   * 学习目标
   * [5.1 微课概述](51-wei-ke-gai-shu.md)
     * [5.1.1微课的概念](51-wei-ke-gai-shu/511wei-ke-de-gai-nian.md)
