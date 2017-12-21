@@ -7,16 +7,16 @@
     * [1.1.1多媒体课件的概念](111duo-mei-ti-ke-jian-de-gai-nian.md)
     * [1.1.2多媒体课件的结构](112duo-mei-ti-ke-jian-de-jie-gou.md)
     * [1.1.3多媒体课件的类型](113duo-mei-ti-ke-jian-de-lei-xing.md)
-  * 1.2幼儿园多媒体课件设计的理论基础
+  * [1.2幼儿园多媒体课件设计的理论基础](12you-er-yuan-duo-mei-ti-ke-jian-she-ji-de-li-lun-ji-chu.md)
     * [1.2.1现代教育思想及其指导意义](121xian-dai-jiao-yu-si-xiang-ji-qi-zhi-dao-yi-yi.md)
     * [1.2.2学习理论及其指导意义](122xue-xi-li-lun-ji-qi-zhi-dao-yi-yi.md)
     * [1.2.3美学理论及其指导意义](123mei-xue-li-lun-ji-qi-zhi-dao-yi-yi.md)
-  * 1.3幼儿园多媒体课件的制作工具、规范和评价
+  * [1.3幼儿园多媒体课件的制作工具、规范和评价](13you-er-yuan-duo-mei-ti-ke-jian-de-zhi-zuo-gong-ju-3001-gui-fan-he-ping-jia.md)
     * [1.3.1幼儿园多媒体课件的制作工具](131you-er-yuan-duo-mei-ti-ke-jian-de-zhi-zuo-gong-ju.md)
     * [1.3.2幼儿园多媒体课件的制作规范](132you-er-yuan-duo-mei-ti-ke-jian-de-zhi-zuo-gui-fan.md)
     * [1.3.3幼儿园多媒体课件的评价](133you-er-yuan-duo-mei-ti-ke-jian-de-ping-jia.md)
   * 本章习题
-* 第2章  幼儿园多媒体课件素材的获取与处理
+* [第2章  幼儿园多媒体课件素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li.md)
   * 学习目标
   * 2.1 图像素材的获取与处理
     * 2.1.1图像素材简介
@@ -95,7 +95,7 @@
   * 4.6 利用形状补间动画制作课件
   * 4.7 利用运动补间动画制作课件
   * 4.8 利用引导线动画制作课件
-  * 4.9 利用遮罩动画制作课件
+  * [4.9 利用遮罩动画制作课件](49-li-yong-zhe-zhao-dong-hua-zhi-zuo-ke-jian.md)
   * 本章习题
 * 第5章  微课型课件的制作
   * 学习目标
