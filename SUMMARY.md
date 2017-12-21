@@ -95,7 +95,7 @@
   * 4.6 利用形状补间动画制作课件
   * 4.7 利用运动补间动画制作课件
   * [4.8 利用引导线动画制作课件](48-li-yong-yin-dao-xian-dong-hua-zhi-zuo-ke-jian.md)
-  * 4.9 利用遮罩动画制作课件
+  * [4.9 利用遮罩动画制作课件](49-li-yong-zhe-zhao-dong-hua-zhi-zuo-ke-jian.md)
   * 本章习题
 * [第5章  微课型课件的制作](di-5-zhang-wei-ke-xing-ke-jian-de-zhi-zuo.md)
   * 学习目标
