@@ -74,7 +74,7 @@
     * 3.9.4设置保护
     * 3.9.5打印课件
   * 本章习题
-* 第4章  Flash课件的制作
+* [第4章  Flash课件的制作](di-4-zhang-flash-ke-jian-de-zhi-zuo.md)
   * 学习目标
   * 4.1 Flash简介
     * 4.1.1 Flash的工作环境及界面
