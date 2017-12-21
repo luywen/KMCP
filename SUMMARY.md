@@ -76,9 +76,9 @@
   * 本章习题
 * 第4章  Flash课件的制作
   * 学习目标
-  * 4.1 Flash简介
-    * 4.1.1 Flash的工作环境及界面
-    * 4.1.2 Flash的文档操作
+  * [4.1 Flash简介](41-flashjian-jie.md)
+    * [4.1.1 Flash的工作环境及界面](41-flashjian-jie/411-flashde-gong-zuo-huan-jing-ji-jie-mian.md)
+    * [4.1.2 Flash的文档操作](41-flashjian-jie/412-flashde-wen-dang-cao-zuo.md)
   * 4.2 Flash基本操作
     * 4.2.1 图层
     * 4.2.2 帧
