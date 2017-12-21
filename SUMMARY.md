@@ -84,8 +84,8 @@
     * 4.2.2 帧
     * 4.2.3 元件和实例
     * 4.2.4 场景
-  * 4.3 在Flash课件中添加文字、图像和图形
-    * 4.3.1制作文本
+  * [4.3 在Flash课件中添加文字、图像和图形](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing.md)
+    * [4.3.1制作文本](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing/431zhi-zuo-wen-ben.md)
     * 4.3.2制作图形
     * 4.3.3位图的应用
   * 4.4 在Flash课件中添加音频和视频
