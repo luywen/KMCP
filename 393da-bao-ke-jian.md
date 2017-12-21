@@ -1,74 +1,14 @@
-  
-@font-face{  
-font-family:"Times New Roman";  
-}  
-  
-@font-face{  
-font-family:"宋体";  
-}  
-  
-@font-face{  
-font-family:"等线";  
-}  
-  
-@font-face{  
-font-family:"楷体";  
-}  
-  
-@font-face{  
-font-family:"楷体\_GB2312";  
-}  
-  
-p.MsoNormal{  
-mso-style-name:正文;  
-mso-style-parent:"";  
-margin:0pt;  
-margin-bottom:.0001pt;  
-mso-pagination:none;  
-text-align:justify;  
-text-justify:inter-ideograph;  
-font-family:等线;  
-mso-bidi-font-family:'Times New Roman';  
-font-size:10.5000pt;  
-mso-font-kerning:1.0000pt;  
-}  
-  
-span.msoIns{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:underline;  
-text-underline:single;  
-color:blue;  
-}  
-  
-span.msoDel{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:line-through;  
-color:red;  
-}  
-@page{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}@page Section0{  
-}  
-div.Section0{page:Section0;}
+
 
 **3.9.3 打包课件**
-
-
 
 在Powerpoint中打开想要打包的PPT演示文档，在PPT中提供了一个打包为
 
 ![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wpsECD2.tmp.png)
 
-
-
 **图3-9-4多媒体课件放映**
 
-
-
 CD的功能，鼠标点击左上角的office按钮，找到“保存并发送”，在右侧窗口有个“将演示文稿打包成CD”，点击最右侧按钮“打包成CD”
-
-
 
 2）在"打包"向导对话框中单击"下一步"按钮，选择需要打包的课件。可以有三种不同的选择：如果只选中"当前演示文稿"复选框，表示将当前打开的课件打包；如果只选中"其他演示文稿"复选框，并选择需要打包的文件，则可将所选择的文件单独打包；如果两个复选框同时选中，表示将当前课件和其他课件打在同一个包中。  
 　　根据提示，即可完成打包操作。打包完成后，将生成两个文件：Pngsetup.exe和pres0.ppz。
