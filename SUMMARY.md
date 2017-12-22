@@ -20,8 +20,9 @@
   * 学习目标
   * [2.1 图像素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/21-tu-xiang-su-cai-de-huo-qu-yu-chu-li.md)
     * [2.1.1图像素材简介](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/21-tu-xiang-su-cai-de-huo-qu-yu-chu-li/211tu-xiang-su-cai-jian-jie.md)
-    * 2.1.2图像的获取与处理
-    * 2.1.3图像素材的制作要求
+    * [2.1.2图像的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/21-tu-xiang-su-cai-de-huo-qu-yu-chu-li/212tu-xiang-de-huo-qu-yu-chu-li.md)
+    * [2.1.3图像素材的制作要求](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/21-tu-xiang-su-cai-de-huo-qu-yu-chu-li/213tu-xiang-su-cai-de-zhi-zuo-yao-qiu.md)
+
   * [2.2 声音素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/22-sheng-yin-su-cai-de-huo-qu-yu-chu-li.md)
     * [2.2.1声音素材简介](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/22-sheng-yin-su-cai-de-huo-qu-yu-chu-li/221sheng-yin-su-cai-jian-jie.md)
     * [2.2.2声音的录制与编辑](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/22-sheng-yin-su-cai-de-huo-qu-yu-chu-li/222sheng-yin-de-lu-zhi-yu-bian-ji.md)
@@ -79,15 +80,15 @@
   * [4.1 Flash简介](41-flashjian-jie.md)
     * 4.1.1 Flash的工作环境及界面
     * 4.1.2 Flash的文档操作
-  * [4.2 Flash基本操作](42-flashji-ben-cao-zuo.md)
+ * [4.2 Flash基本操作](42-flashji-ben-cao-zuo.md)
     * [4.2.1 图层](42-flashji-ben-cao-zuo/421-tu-ceng.md)
     * [4.2.2 帧](42-flashji-ben-cao-zuo/422-zheng.md)
     * [4.2.3 元件和实例](42-flashji-ben-cao-zuo/423-yuan-jian-he-shi-li.md)
     * [4.2.4 场景](42-flashji-ben-cao-zuo/424-chang-jing.md)
-  * 4.3 在Flash课件中添加文字、图像和图形
-    * 4.3.1制作文本
-    * 4.3.2制作图形
-    * 4.3.3位图的应用
+  * [4.3 在Flash课件中添加文字、图像和图形](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing.md)
+    * [4.3.1制作文本](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing/431zhi-zuo-wen-ben.md)
+    * [4.3.2制作图形](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing/432zhi-zuo-tu-xing.md)
+    * [4.3.3位图的应用](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing/433wei-tu-de-ying-yong.md)
   * 4.4 在Flash课件中添加音频和视频
     * 4.4.1声音的应用
     * 4.4.2视频的应用
