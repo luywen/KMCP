@@ -1,75 +1,16 @@
-  
-@font-face{  
-font-family:"Times New Roman";  
-}  
-  
-@font-face{  
-font-family:"宋体";  
-}  
-  
-@font-face{  
-font-family:"Calibri";  
-}  
-  
-@list l0:level1{  
-mso-level-number-format:decimal;  
-mso-level-suffix:tab;  
-mso-level-text:"%1.";  
-mso-level-tab-stop:15.6000pt;  
-mso-level-number-position:left;  
-margin-left:0.0000pt;  
-text-indent:0.0000pt;  
-font-family:'Times New Roman';}  
-  
-p.MsoNormal{  
-mso-style-name:正文;  
-mso-style-parent:"";  
-margin:0pt;  
-margin-bottom:.0001pt;  
-mso-pagination:none;  
-text-align:justify;  
-text-justify:inter-ideograph;  
-font-family:Calibri;  
-mso-fareast-font-family:宋体;  
-mso-bidi-font-family:'Times New Roman';  
-font-size:10.5000pt;  
-mso-font-kerning:1.0000pt;  
-}  
-  
-span.msoIns{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:underline;  
-text-underline:single;  
-color:blue;  
-}  
-  
-span.msoDel{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:line-through;  
-color:red;  
-}  
-@page{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}@page Section0{  
-}  
-div.Section0{page:Section0;}
-
-**4.3.2 位图的应用**
+**4.3.2 位图的应用**
 
 位图资源极其丰富，而且表现力非常强，一些复杂的图形图像课件必须使用位图才能实现效果。因此，掌握在Flash中利用位图制作图形图像课件，是一种很重要的技能。
-
-
 
 1.**导入位图：**选择【文件】——【导入】——【导入到舞台】——按住Ctrl键，依次单击图像文件，导入课件所需的多个图像文件。  导入舞台的图像会自动分布在场景的舞台上，按Delete键，将场景中的图像文件全部删除。但图像文件保存在【库】面板中。如图4-3-4所示。
 
 
 
-![](/assets/图片10.png)
+![](/assets/4-3-10.png)
 
-![](/assets/图片11.png)
+![](/assets/4-3-11.png)
 
-![](/assets/图片13.png)
+![](/assets/4-3-13.png)
 
 **图4-3-4   导入位图**
 
@@ -83,7 +24,7 @@ div.Section0{page:Section0;}
 
 如图4-3-5所示。
 
-![](/assets/图片13.png)
+![](/assets/4-3-13.png)
 
 **图4-3-5   套索工具**
 
@@ -99,7 +40,7 @@ div.Section0{page:Section0;}
 
 【橡皮擦工具】用于擦除舞台中的图形。可以一次擦除舞台中的所有图形，也可以有选择地对舞台中的图形进行擦除。如图4-3-6所示。
 
-![](/assets/图片14.png)
+![](/assets/4-3-14.png)
 
 **图4-3-6   橡皮檫工具**
 
@@ -107,7 +48,7 @@ div.Section0{page:Section0;}
 
 单击【橡皮擦模式】，系统将弹出包括5种橡皮擦模式的菜单。如图4-3-7所示。
 
-![](/assets/图片15.png)
+![](/assets/4-3-15.png)
 
 **图4-3-7   橡皮檫模式**
 
