@@ -48,11 +48,11 @@
     * 3.3.1在课件中添加影音
     * 3.3.2在课件中添加图表
   * [3.4 Powerpoint课件的美化](34-powerpointke-jian-de-mei-hua.md)
-    * 3.4.1课件的色彩搭配
-    * 3.4.2课件的背景设置
-    * 3.4.3课件版式的设置
-    * 3.4.4课件主题的调整
-    * 3.4.5课件模板的设置
+    * [3.4.1课件的色彩搭配](341ke-jian-de-se-cai-da-pei.md)
+    * [3.4.2课件的背景设置](342ke-jian-de-bei-jing-she-zhi.md)
+    * [3.4.3课件版式的设置](343ke-jian-ban-shi-de-she-zhi.md)
+    * [3.4.4课件主题的调整](344ke-jian-zhu-ti-de-diao-zheng.md)
+    * [3.4.5课件模板的设置](345ke-jian-mo-ban-de-she-zhi.md)
   * [3.5 Powerpoint课件的动画设置](35-powerpointke-jian-de-dong-hua-she-zhi.md)
     * [3.5.1 Powerpoint课件内部动画的设置](351-powerpointke-jian-nei-bu-dong-hua-de-she-zhi.md)
     * [3.5.2 Powerpoint课件切换动画的设置](352-powerpointke-jian-qie-huan-dong-hua-de-she-zhi.md)
@@ -60,6 +60,7 @@
     * [3.6.1 使用动作交互](36-shi-yong-ke-jian-zhong-dui-xiang-chan-sheng-jiao-hu/361-shi-yong-dong-zuo-jiao-hu.md)
     * [3.6.2 使用超链接设置交互](36-shi-yong-ke-jian-zhong-dui-xiang-chan-sheng-jiao-hu/362-shi-yong-chao-lian-jie-she-zhi-jiao-hu.md)
     * [3.6.3 使用动作按钮交互](36-shi-yong-ke-jian-zhong-dui-xiang-chan-sheng-jiao-hu/363-shi-yong-dong-zuo-an-niu-jiao-hu.md)
+
   * 3.7 课件中使用菜单和按键产生交互
     * 3.7.1 使用播放菜单交互
     * 3.7.2 使用按键交互
