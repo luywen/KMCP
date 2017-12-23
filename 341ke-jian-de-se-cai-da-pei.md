@@ -1,78 +1,4 @@
   
-@font-face{  
-font-family:"Times New Roman";  
-}  
-  
-@font-face{  
-font-family:"宋体";  
-}  
-  
-@font-face{  
-font-family:"Calibri";  
-}  
-  
-@font-face{  
-font-family:"Arial";  
-}  
-  
-@font-face{  
-font-family:"黑体";  
-}  
-  
-p.MsoNormal{  
-mso-style-name:正文;  
-mso-style-parent:"";  
-margin:0pt;  
-margin-bottom:.0001pt;  
-mso-pagination:none;  
-text-align:justify;  
-text-justify:inter-ideograph;  
-font-family:Calibri;  
-mso-fareast-font-family:宋体;  
-mso-bidi-font-family:'Times New Roman';  
-font-size:10.5000pt;  
-mso-font-kerning:1.0000pt;  
-}  
-  
-h3{  
-mso-style-name:"标题 3";  
-mso-style-noshow:yes;  
-mso-style-next:正文;  
-margin:0pt;  
-margin-bottom:.0001pt;  
-mso-layout-grid-align:none;  
-page-break-after:avoid;  
-mso-pagination:lines-together;  
-text-align:justify;  
-text-justify:inter-ideograph;  
-mso-outline-level:3;  
-line-height:200%;  
-font-family:Arial;  
-mso-fareast-font-family:黑体;  
-mso-bidi-font-family:'Times New Roman';  
-font-size:12.0000pt;  
-mso-font-kerning:1.0000pt;  
-}  
-  
-span.msoIns{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:underline;  
-text-underline:single;  
-color:blue;  
-}  
-  
-span.msoDel{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:line-through;  
-color:red;  
-}  
-@page{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}@page Section0{  
-}  
-div.Section0{page:Section0;}
-
 ### **3.4.1课件的色彩搭配**
 
 很多初学者开始在做课件的时候都会有个困惑，在幻灯片上输入文字的时候，往往字的显示不是很清楚，或者被背景颜色挡住或者被图形颜色挡住，这是幻灯片的大忌，所以我们要适当的了解一下色彩的搭配。色彩是一门大学问，它是一个感官的东西，所以对色彩的感觉也是因人而异。比如说买到一件不论是原材料、颜色还是款式都是非常好的上衣，但是如果与裤子没有搭配好，那么上衣的品质也是大打折扣的。
