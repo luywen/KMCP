@@ -45,8 +45,8 @@
     * [3.2.2在课件中添加图像](322zai-ke-jian-zhong-tian-jia-tu-xiang.md)
     * [3.2.3在课件中添加图形](323zai-ke-jian-zhong-tian-jia-tu-xing.md)
   * 3.3 在Powerpoint课件中添加影音和图表
-    * 3.3.1在课件中添加影音
-    * 3.3.2在课件中添加图表
+    * [3.3.1在课件中添加影音](331zai-ke-jian-zhong-tian-jia-ying-yin.md)
+    * [3.3.2在课件中添加图表](332zai-ke-jian-zhong-tian-jia-tu-biao.md)
   * [3.4 Powerpoint课件的美化](34-powerpointke-jian-de-mei-hua.md)
     * [3.4.1课件的色彩搭配](341ke-jian-de-se-cai-da-pei.md)
     * [3.4.2课件的背景设置](342ke-jian-de-bei-jing-she-zhi.md)
@@ -60,7 +60,6 @@
     * [3.6.1 使用动作交互](36-shi-yong-ke-jian-zhong-dui-xiang-chan-sheng-jiao-hu/361-shi-yong-dong-zuo-jiao-hu.md)
     * [3.6.2 使用超链接设置交互](36-shi-yong-ke-jian-zhong-dui-xiang-chan-sheng-jiao-hu/362-shi-yong-chao-lian-jie-she-zhi-jiao-hu.md)
     * [3.6.3 使用动作按钮交互](36-shi-yong-ke-jian-zhong-dui-xiang-chan-sheng-jiao-hu/363-shi-yong-dong-zuo-an-niu-jiao-hu.md)
-
   * 3.7 课件中使用菜单和按键产生交互
     * 3.7.1 使用播放菜单交互
     * 3.7.2 使用按键交互
@@ -78,10 +77,8 @@
 * [第4章  Flash课件的制作](di-4-zhang-flash-ke-jian-de-zhi-zuo.md)
   * 学习目标
   * [4.1 Flash简介](41-flashjian-jie.md)
-
     * [4.1.1 Flash的工作环境及界面](41-flashjian-jie/411-flashde-gong-zuo-huan-jing-ji-jie-mian.md)
     * [4.1.2 Flash的文档操作](41-flashjian-jie/412-flashde-wen-dang-cao-zuo.md)
-
   * [4.2 Flash基本操作](42-flashji-ben-cao-zuo.md)
     * [4.2.1 图层](42-flashji-ben-cao-zuo/421-tu-ceng.md)
     * [4.2.2 帧](42-flashji-ben-cao-zuo/422-zheng.md)
@@ -91,7 +88,6 @@
     * [4.3.1制作文本](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing/431zhi-zuo-wen-ben.md)
     * [4.3.2制作图形](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing/432zhi-zuo-tu-xing.md)
     * [4.3.3位图的应用](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing/433wei-tu-de-ying-yong.md)
-
   * 4.4 在Flash课件中添加音频和视频
     * [4.4.1声音的应用](441sheng-yin-de-ying-yong.md)
     * [4.4.2视频的应用](442shi-pin-de-ying-yong.md)
