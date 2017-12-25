@@ -104,7 +104,7 @@ div.Section0{page:Section0;}
 
 实例1  播放课件“认识硬币“
 
-![](file:///C:\Users\s\AppData\Local\Temp\ksohtml\wps1944.tmp.png)
+![](/assets/CN%QYG[1Y~X%29@VL3Z{ORH7I.jpg)
 
 3.7.1快捷菜单交互
 
