@@ -1,58 +1,101 @@
-  
-@font-face{  
-font-family:"Times New Roman";  
-}  
-  
-@font-face{  
-font-family:"宋体";  
-}  
-  
-@font-face{  
-font-family:"Calibri";  
-}  
-  
-@list l0:level1{  
-mso-level-number-format:decimal;  
-mso-level-suffix:none;  
-mso-level-text:"（%1）";  
-mso-level-tab-stop:none;  
-mso-level-number-position:left;  
-margin-left:0.0000pt;  
-text-indent:0.0000pt;  
-font-family:'Times New Roman';}  
-  
-p.MsoNormal{  
-mso-style-name:正文;  
-mso-style-parent:"";  
-margin:0pt;  
-margin-bottom:.0001pt;  
-mso-pagination:none;  
-text-align:justify;  
-text-justify:inter-ideograph;  
-font-family:Calibri;  
-mso-fareast-font-family:宋体;  
-mso-bidi-font-family:'Times New Roman';  
-font-size:10.5000pt;  
-mso-font-kerning:1.0000pt;  
-}  
-  
-span.msoIns{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:underline;  
-text-underline:single;  
-color:blue;  
-}  
-  
-span.msoDel{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:line-through;  
-color:red;  
-}  
-@page{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}@page Section0{  
-}  
+@font-face{
+
+font-family:"Times New Roman";
+
+}
+
+@font-face{
+
+font-family:"宋体";
+
+}
+
+@font-face{
+
+font-family:"Calibri";
+
+}
+
+@list l0:level1{
+
+mso-level-number-format:decimal;
+
+mso-level-suffix:none;
+
+mso-level-text:"（%1）";
+
+mso-level-tab-stop:none;
+
+mso-level-number-position:left;
+
+margin-left:0.0000pt;
+
+text-indent:0.0000pt;
+
+font-family:'Times New Roman';}
+
+p.MsoNormal{
+
+mso-style-name:正文;
+
+mso-style-parent:"";
+
+margin:0pt;
+
+margin-bottom:.0001pt;
+
+mso-pagination:none;
+
+text-align:justify;
+
+text-justify:inter-ideograph;
+
+font-family:Calibri;
+
+mso-fareast-font-family:宋体;
+
+mso-bidi-font-family:'Times New Roman';
+
+font-size:10.5000pt;
+
+mso-font-kerning:1.0000pt;
+
+}
+
+span.msoIns{
+
+mso-style-type:export-only;
+
+mso-style-name:"";
+
+text-decoration:underline;
+
+text-underline:single;
+
+color:blue;
+
+}
+
+span.msoDel{
+
+mso-style-type:export-only;
+
+mso-style-name:"";
+
+text-decoration:line-through;
+
+color:red;
+
+}
+
+@page{mso-page-border-surround-header:no;
+
+```
+mso-page-border-surround-footer:no;}@page Section0{
+```
+
+}
+
 div.Section0{page:Section0;}
 
 3.7使用菜单和按键进行交互
