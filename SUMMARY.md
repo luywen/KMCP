@@ -15,18 +15,15 @@
     * [1.3.1幼儿园多媒体课件的制作工具](131you-er-yuan-duo-mei-ti-ke-jian-de-zhi-zuo-gong-ju.md)
     * [1.3.2幼儿园多媒体课件的制作规范](132you-er-yuan-duo-mei-ti-ke-jian-de-zhi-zuo-gui-fan.md)
     * [1.3.3幼儿园多媒体课件的评价](133you-er-yuan-duo-mei-ti-ke-jian-de-ping-jia.md)
-
   * 本章习题
 * [第2章  幼儿园多媒体课件素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li.md)
   * 学习目标
-
   * [2.1 图像素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/21-tu-xiang-su-cai-de-huo-qu-yu-chu-li.md)
-    * 2.1.1图像素材简介
+    * [2.1.1图像素材简介](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/21-tu-xiang-su-cai-de-huo-qu-yu-chu-li/211tu-xiang-su-cai-jian-jie.md)
     * 2.1.2图像的获取与处理
     * 2.1.3图像素材的制作要求
   * [2.2 声音素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/22-sheng-yin-su-cai-de-huo-qu-yu-chu-li.md)
     * 2.2.1声音素材简介
-
     * 2.2.2声音的录制与编辑
     * 2.2.3声音素材的制作要求
   * 2.3 动画素材的获取与处理
@@ -48,12 +45,12 @@
     * 3.2.2在课件中添加图像
     * 3.2.3在课件中添加图形
   * 3.3 在Powerpoint课件中添加影音和图表
-    * 3.3.1在课件中添加影音
-    * 3.3.2在课件中添加图表
+    * [3.3.1在课件中添加影音](331zai-ke-jian-zhong-tian-jia-ying-yin.md)
+    * [3.3.2在课件中添加图表](332zai-ke-jian-zhong-tian-jia-tu-biao.md)
   * [3.4 Powerpoint课件的美化](34-powerpointke-jian-de-mei-hua.md)
-    * 3.4.1课件的色彩搭配
+    * [3.4.1课件的色彩搭配](34-powerpointke-jian-de-mei-hua/341ke-jian-de-se-cai-da-pei.md)
     * 3.4.2课件的背景设置
-    * 3.4.3课件版式的设置
+    * [3.4.3课件版式的设置](34-powerpointke-jian-de-mei-hua/343ke-jian-ban-shi-de-she-zhi.md)
     * 3.4.4课件主题的调整
     * 3.4.5课件模板的设置
   * [3.5 Powerpoint课件的动画设置](35-powerpointke-jian-de-dong-hua-she-zhi.md)
