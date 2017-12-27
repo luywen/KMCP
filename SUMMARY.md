@@ -88,9 +88,9 @@
     * [4.3.1制作文本](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing/431zhi-zuo-wen-ben.md)
     * [4.3.2制作图形](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing/432zhi-zuo-tu-xing.md)
     * [4.3.3位图的应用](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing/433wei-tu-de-ying-yong.md)
-  * 4.4 在Flash课件中添加音频和视频
-    * [4.4.1声音的应用](441sheng-yin-de-ying-yong.md)
-    * [4.4.2视频的应用](442shi-pin-de-ying-yong.md)
+  * [4.4 在Flash课件中添加音频和视频](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin.md)
+    * [4.4.1声音的应用](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin/441sheng-yin-de-ying-yong.md)
+    * [4.4.2视频的应用](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin/442shi-pin-de-ying-yong.md)
   * 4.5 利用逐帧动画制作课件
   * 4.6 利用形状补间动画制作课件
   * 4.7 利用运动补间动画制作课件
@@ -108,5 +108,5 @@
     * [5.2.1使用手机拍摄微课](52-zhi-zuo-wei-ke-de-jian-dan-fang-fa/521shi-yong-shou-ji-pai-she-wei-ke.md)
     * [5.2.2使用Camtasia Studio编辑微课](52-zhi-zuo-wei-ke-de-jian-dan-fang-fa/522shi-yong-camtasia-studio-bian-ji-wei-ke.md)
   * 本章习题
-* 参考文献
+* [参考文献](can-kao-wen-xian.md)
 
