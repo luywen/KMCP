@@ -37,7 +37,7 @@
   * 本章习题
 * [第3章  Powerpoint课件的制作](di-3-zhang-powerpoint-ke-jian-de-zhi-zuo.md)
   * 学习目标
-  * 3.1 Powerpoint简介
+  * [3.1 Powerpoint简介](31-powerpointjian-jie.md)
     * 3.1.1 Powerpoint的工作环境及界面
     * 3.1.2 Powerpoint的文档操作
   * 3.2 在Powerpoint课件中添加文字、图像和图形
