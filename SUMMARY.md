@@ -26,7 +26,6 @@
     * [2.2.1声音素材简介](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/22-sheng-yin-su-cai-de-huo-qu-yu-chu-li/221sheng-yin-su-cai-jian-jie.md)
     * [2.2.2声音的录制与编辑](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/22-sheng-yin-su-cai-de-huo-qu-yu-chu-li/222sheng-yin-de-lu-zhi-yu-bian-ji.md)
     * [2.2.3声音素材的制作要求](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/22-sheng-yin-su-cai-de-huo-qu-yu-chu-li/223sheng-yin-su-cai-de-zhi-zuo-yao-qiu.md)
-
   * 2.3 动画素材的获取与处理
     * [2.3.1动画素材简介](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/231dong-hua-su-cai-jian-jie.md)
     * 2.3.2动画的获取与处理
@@ -39,7 +38,6 @@
 * [第3章  Powerpoint课件的制作](di-3-zhang-powerpoint-ke-jian-de-zhi-zuo.md)
   * 学习目标
   * [3.1 Powerpoint简介](31-powerpointjian-jie.md)
-
     * [3.1.1 Powerpoint的工作环境及界面](311-powerpointde-gong-zuo-huan-jing-ji-jie-mian.md)
     * [3.1.2 Powerpoint的文档操作](312-powerpointde-wen-dang-cao-zuo.md)
   * [3.2 在Powerpoint课件中添加文字、图像和图形](32-zai-powerpoint-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing.md)
@@ -49,14 +47,12 @@
   * 3.3 在Powerpoint课件中添加影音和图表
     * [3.3.1在课件中添加影音](331zai-ke-jian-zhong-tian-jia-ying-yin.md)
     * [3.3.2在课件中添加图表](332zai-ke-jian-zhong-tian-jia-tu-biao.md)
-
   * [3.4 Powerpoint课件的美化](34-powerpointke-jian-de-mei-hua.md)
     * [3.4.1课件的色彩搭配](341ke-jian-de-se-cai-da-pei.md)
     * [3.4.2课件的背景设置](342ke-jian-de-bei-jing-she-zhi.md)
     * [3.4.3课件版式的设置](343ke-jian-ban-shi-de-she-zhi.md)
     * [3.4.4课件主题的调整](344ke-jian-zhu-ti-de-diao-zheng.md)
     * [3.4.5课件模板的设置](345ke-jian-mo-ban-de-she-zhi.md)
-
   * [3.5 Powerpoint课件的动画设置](35-powerpointke-jian-de-dong-hua-she-zhi.md)
     * [3.5.1 Powerpoint课件内部动画的设置](351-powerpointke-jian-nei-bu-dong-hua-de-she-zhi.md)
     * [3.5.2 Powerpoint课件切换动画的设置](352-powerpointke-jian-qie-huan-dong-hua-de-she-zhi.md)
@@ -75,7 +71,7 @@
     * [3.9.1播放课件](391bo-fang-ke-jian.md)
     * [3.9.2发布课件](392fa-bu-ke-jian.md)
     * [3.9.3打包课件](393da-bao-ke-jian.md)
-    * 3.9.4设置保护
+    * [3.9.4设置保护](394she-zhi-bao-hu.md)
     * [3.9.5打印课件](395da-yin-ke-jian.md)
   * 本章习题
 * [第4章  Flash课件的制作](di-4-zhang-flash-ke-jian-de-zhi-zuo.md)
