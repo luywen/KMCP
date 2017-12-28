@@ -1,192 +1,10 @@
-&lt;!--
-
-/\* Font Definitions \*/
-
-@font-face
-
-```
-{font-family:宋体;
-
-panose-1:2 1 6 0 3 1 1 1 1 1;
-
-mso-font-alt:SimSun;
-
-mso-font-charset:134;
-
-mso-generic-font-family:auto;
-
-mso-font-pitch:variable;
-
-mso-font-signature:3 680460288 22 0 262145 0;}
-```
-
-@font-face
-
-```
-{font-family:"Cambria Math";
-
-panose-1:0 0 0 0 0 0 0 0 0 0;
-
-mso-font-charset:1;
-
-mso-generic-font-family:roman;
-
-mso-font-pitch:variable;
-
-mso-font-signature:0 0 0 0 0 0;}
-```
-
-@font-face
-
-```
-{font-family:等线;
-
-panose-1:2 1 6 0 3 1 1 1 1 1;
-
-mso-font-alt:DengXian;
-
-mso-font-charset:134;
-
-mso-generic-font-family:auto;
-
-mso-font-pitch:variable;
-
-mso-font-signature:-1610612033 953122042 22 0 262159 0;}
-```
-
-@font-face
-
-```
-{font-family:"\@宋体";
-
-panose-1:2 1 6 0 3 1 1 1 1 1;
-
-mso-font-charset:134;
-
-mso-generic-font-family:auto;
-
-mso-font-pitch:variable;
-
-mso-font-signature:3 680460288 22 0 262145 0;}
-```
-
-@font-face
-
-```
-{font-family:"\@等线";
-
-panose-1:2 1 6 0 3 1 1 1 1 1;
-
-mso-font-charset:134;
-
-mso-generic-font-family:auto;
-
-mso-font-pitch:variable;
-
-mso-font-signature:-1610612033 953122042 22 0 262159 0;}
-```
-
-/\* Style Definitions \*/
-
-p.MsoNormal, li.MsoNormal, div.MsoNormal
-
-```
-{mso-style-unhide:no;
-
-mso-style-qformat:yes;
-
-mso-style-parent:"";
-
-margin:0cm;
-
-margin-bottom:.0001pt;
-
-text-align:justify;
-
-text-justify:inter-ideograph;
-
-mso-pagination:none;
-
-font-size:10.5pt;
-
-mso-bidi-font-size:11.0pt;
-
-font-family:等线;
-
-mso-ascii-font-family:等线;
-
-mso-ascii-theme-font:minor-latin;
-
-mso-fareast-font-family:等线;
-
-mso-fareast-theme-font:minor-fareast;
-
-mso-hansi-font-family:等线;
-
-mso-hansi-theme-font:minor-latin;
-
-mso-bidi-font-family:"Times New Roman";
-
-mso-bidi-theme-font:minor-bidi;
-
-mso-font-kerning:1.0pt;}
-```
-
-.MsoChpDefault
-
-```
-{mso-style-type:export-only;
-
-mso-default-props:yes;
-
-font-family:等线;
-
-mso-bidi-font-family:"Times New Roman";
-
-mso-bidi-theme-font:minor-bidi;}
-```
-
-/\* Page Definitions \*/
-
-@page
-
-```
-{mso-page-border-surround-header:no;
-
-mso-page-border-surround-footer:no;}
-```
-
-@page WordSection1
-
-```
-{size:612.0pt 792.0pt;
-
-margin:72.0pt 90.0pt 72.0pt 90.0pt;
-
-mso-header-margin:36.0pt;
-
-mso-footer-margin:36.0pt;
-
-mso-paper-source:0;}
-```
-
-div.WordSection1
-
-```
-{page:WordSection1;}
-```
-
---&gt;
-
 **2.4.2视频信息的采集与编辑**
 
 多媒体计算机的视频采集\(捕捉\)系统由计算机、视频采集卡，以及外部视频设备如录像机、摄像机等组成，如图2-4-1所示。视频采集卡的作用是将录像带、光盘等视频源上的模拟视频信息转换成数字视频信息。在视频采集卡中，模数转换器负责把从视频源传来的模拟视频流转换成数字视频流，音频捕捉线路所捕捉的数字音频信息可以和数字视频信息结合在一起，通过硬件压缩芯片执行某种压缩算法，输出的便是经过压缩的视频数据文件。也有的视频采集卡不带硬件压缩芯片，而通过压缩软件对视频数据进行压缩。
 
 ![](/assets/z1.jpg)
 
-```
-                                                      **图2-4-1**
-```
+\*\*图2-4-1\*\*
 
 一般来说，视频采集卡提供了连续采集、单帧采集和视频图像的数字化播放等功能。为了对数字化视频信息进行编辑加工，可以采用专门的视频编辑软件。例如，Adobe公司的Premiere软件。
 
@@ -198,9 +16,7 @@ Premiere是一个基于非线性编辑的视音频编辑软件，被广泛应用
 
 ![](/assets/z2.jpg)
 
-```
-                                                       **图2-4-2**
-```
+\*\*图2-4-2\*\*
 
 **2．素材的采集和导入**
 
@@ -208,9 +24,7 @@ Premiere是一个基于非线性编辑的视音频编辑软件，被广泛应用
 
 ![](/assets/z3.jpg)
 
-```
-                                                    **图2-4-3**
-```
+\*\*图2-4-3\*\*
 
 **3．素材的加载**
 
@@ -218,9 +32,7 @@ Premiere是一个基于非线性编辑的视音频编辑软件，被广泛应用
 
 ![](/assets/z4.jpg)
 
-```
-                                                       **图2-4-4**
-```
+\*\*图2-4-4\*\*
 
 **4．素材的剪辑**
 
@@ -232,9 +44,7 @@ Premiere是一个基于非线性编辑的视音频编辑软件，被广泛应用
 
 ![](/assets/z5.jpg)
 
-```
-                                                      **图2-4-5**
-```
+\*\*图2-4-5\*\*
 
 **6．字幕的制作**
 
@@ -242,9 +52,7 @@ Premiere是一个基于非线性编辑的视音频编辑软件，被广泛应用
 
 ![](/assets/z6.jpg)
 
-```
-                                                       **图2-4-6**
-```
+\*\*图2-4-6\*\*
 
 **7．作品的预览**
 
@@ -256,9 +64,5 @@ Premiere是一个基于非线性编辑的视音频编辑软件，被广泛应用
 
 ![](/assets/z7.jpg)
 
-```
-                                                         **图2-4-7**
-```
-
-
+\*\*图2-4-7\*\*
 
