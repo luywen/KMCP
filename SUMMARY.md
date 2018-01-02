@@ -63,7 +63,7 @@
   * [3.7 课件中使用菜单和按键产生交互](37-ke-jian-zhong-shi-yong-cai-dan-he-an-jian-chan-sheng-jiao-hu.md)
     * [3.7.1 使用播放菜单交互](37-ke-jian-zhong-shi-yong-cai-dan-he-an-jian-chan-sheng-jiao-hu/371-shi-yong-bo-fang-cai-dan-jiao-hu.md)
     * [3.7.2 使用按键交互](37-ke-jian-zhong-shi-yong-cai-dan-he-an-jian-chan-sheng-jiao-hu/372-shi-yong-an-jian-jiao-hu.md)
-  * 3.8 课件中使用触发器产生交互
+  * [3.8 课件中使用触发器产生交互](38-ke-jian-zhong-shi-yong-hong-fa-qi-chan-sheng-jiao-hu.md)
     * [3.8.1 使用文字触发器交互](381-shi-yong-wen-zi-hong-fa-qi-jiao-hu.md)
     * [3.8.2 使用图片触发器交互](382-shi-yong-tu-pian-hong-fa-qi-jiao-hu.md)
     * [3.8.3 使用声音触发器交互](383-shi-yong-sheng-yin-hong-fa-qi-jiao-hu.md)
