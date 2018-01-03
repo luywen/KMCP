@@ -22,7 +22,6 @@
     * [2.1.1图像素材简介](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/21-tu-xiang-su-cai-de-huo-qu-yu-chu-li/211tu-xiang-su-cai-jian-jie.md)
     * [2.1.2图像的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/21-tu-xiang-su-cai-de-huo-qu-yu-chu-li/212tu-xiang-de-huo-qu-yu-chu-li.md)
     * [2.1.3图像素材的制作要求](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/21-tu-xiang-su-cai-de-huo-qu-yu-chu-li/213tu-xiang-su-cai-de-zhi-zuo-yao-qiu.md)
-
   * [2.2 声音素材的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/22-sheng-yin-su-cai-de-huo-qu-yu-chu-li.md)
     * [2.2.1声音素材简介](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/22-sheng-yin-su-cai-de-huo-qu-yu-chu-li/221sheng-yin-su-cai-jian-jie.md)
     * [2.2.2声音的录制与编辑](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/22-sheng-yin-su-cai-de-huo-qu-yu-chu-li/222sheng-yin-de-lu-zhi-yu-bian-ji.md)
@@ -80,7 +79,7 @@
   * [4.1 Flash简介](41-flashjian-jie.md)
     * 4.1.1 Flash的工作环境及界面
     * 4.1.2 Flash的文档操作
- * [4.2 Flash基本操作](42-flashji-ben-cao-zuo.md)
+  * [4.2 Flash基本操作](42-flashji-ben-cao-zuo.md)
     * [4.2.1 图层](42-flashji-ben-cao-zuo/421-tu-ceng.md)
     * [4.2.2 帧](42-flashji-ben-cao-zuo/422-zheng.md)
     * [4.2.3 元件和实例](42-flashji-ben-cao-zuo/423-yuan-jian-he-shi-li.md)
@@ -89,7 +88,7 @@
     * [4.3.1制作文本](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing/431zhi-zuo-wen-ben.md)
     * [4.3.2制作图形](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing/432zhi-zuo-tu-xing.md)
     * [4.3.3位图的应用](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing/433wei-tu-de-ying-yong.md)
-  * 4.4 在Flash课件中添加音频和视频
+  * [4.4 在Flash课件中添加音频和视频](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin.md)
     * 4.4.1声音的应用
     * 4.4.2视频的应用
   * 4.5 利用逐帧动画制作课件
@@ -101,16 +100,13 @@
 * [第5章  微课型课件的制作](di-5-zhang-wei-ke-xing-ke-jian-de-zhi-zuo.md)
   * 学习目标
   * [5.1 微课概述](51-wei-ke-gai-shu.md)
-
     * [5.1.1微课的概念](51-wei-ke-gai-shu/511wei-ke-de-gai-nian.md)
     * [5.1.2微课制作流程](51-wei-ke-gai-shu/512wei-ke-zhi-zuo-liu-cheng.md)
     * [5.1.3微课制作方法](51-wei-ke-gai-shu/513wei-ke-zhi-zuo-fang-fa.md)
     * [5.1.4微课制作环境](51-wei-ke-gai-shu/514wei-ke-zhi-zuo-huan-jing.md)
- 
   * [5.2 制作微课的简单方法](52-zhi-zuo-wei-ke-de-jian-dan-fang-fa.md)
     * [5.2.1使用手机拍摄微课](52-zhi-zuo-wei-ke-de-jian-dan-fang-fa/521shi-yong-shou-ji-pai-she-wei-ke.md)
     * [5.2.2使用Camtasia Studio编辑微课](52-zhi-zuo-wei-ke-de-jian-dan-fang-fa/522shi-yong-camtasia-studio-bian-ji-wei-ke.md)
-
   * 本章习题
 * 参考文献
 
