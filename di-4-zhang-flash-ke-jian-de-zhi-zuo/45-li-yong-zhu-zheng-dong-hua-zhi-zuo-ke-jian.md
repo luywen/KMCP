@@ -280,3 +280,4 @@ B.垂直分布![](/assets/图片43.png)：从左到右分别为水平方向基�
 
 ⑤相对舞台![](/assets/图片46.png)：在默认状态时上述按钮的操作是对于对象本身的，单击此按钮后，则所做的操作是相对于舞台的。
 
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=f0528rr8b4y&tiny=0&auto=0" allowfullscreen></iframe>

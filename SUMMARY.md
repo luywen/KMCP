@@ -88,7 +88,7 @@
     * 4.3.1制作文本
     * 4.3.2制作图形
     * 4.3.3位图的应用
-  * 4.4 在Flash课件中添加音频和视频
+  * [4.4 在Flash课件中添加音频和视频](di-4-zhang-flash-ke-jian-de-zhi-zuo/44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin.md)
     * 4.4.1声音的应用
     * 4.4.2视频的应用
   * [4.5 利用逐帧动画制作课件](di-4-zhang-flash-ke-jian-de-zhi-zuo/45-li-yong-zhu-zheng-dong-hua-zhi-zuo-ke-jian.md)
