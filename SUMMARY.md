@@ -37,7 +37,6 @@
   * 本章习题
 * [第3章  Powerpoint课件的制作](di-3-zhang-powerpoint-ke-jian-de-zhi-zuo.md)
   * 学习目标
-
   * [3.1 Powerpoint简介](31-powerpointjian-jie.md)
     * [3.1.1 Powerpoint的工作环境及界面](311-powerpointde-gong-zuo-huan-jing-ji-jie-mian.md)
     * [3.1.2 Powerpoint的文档操作](312-powerpointde-wen-dang-cao-zuo.md)
@@ -45,7 +44,6 @@
     * [3.2.1在课件中添加文字](321zai-ke-jian-zhong-tian-jia-wen-zi.md)
     * [3.2.2在课件中添加图像](322zai-ke-jian-zhong-tian-jia-tu-xiang.md)
     * [3.2.3在课件中添加图形](323zai-ke-jian-zhong-tian-jia-tu-xing.md)
-
   * 3.3 在Powerpoint课件中添加影音和图表
     * [3.3.1在课件中添加影音](331zai-ke-jian-zhong-tian-jia-ying-yin.md)
     * [3.3.2在课件中添加图表](332zai-ke-jian-zhong-tian-jia-tu-biao.md)
@@ -79,10 +77,8 @@
 * [第4章  Flash课件的制作](di-4-zhang-flash-ke-jian-de-zhi-zuo.md)
   * 学习目标
   * [4.1 Flash简介](41-flashjian-jie.md)
-
     * [4.1.1 Flash的工作环境及界面](41-flashjian-jie/411-flashde-gong-zuo-huan-jing-ji-jie-mian.md)
     * [4.1.2 Flash的文档操作](41-flashjian-jie/412-flashde-wen-dang-cao-zuo.md)
-
   * [4.2 Flash基本操作](42-flashji-ben-cao-zuo.md)
     * [4.2.1 图层](42-flashji-ben-cao-zuo/421-tu-ceng.md)
     * [4.2.2 帧](42-flashji-ben-cao-zuo/422-zheng.md)
@@ -93,11 +89,9 @@
     * [4.3.2制作图形](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing/432zhi-zuo-tu-xing.md)
     * [4.3.3位图的应用](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing/433wei-tu-de-ying-yong.md)
   * [4.4 在Flash课件中添加音频和视频](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin.md)
-
     * [4.4.1声音的应用](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin/441sheng-yin-de-ying-yong.md)
     * [4.4.2视频的应用](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin/442shi-pin-de-ying-yong.md)
-
-  * 4.5 利用逐帧动画制作课件
+  * [4.5 利用逐帧动画制作课件](45-li-yong-zhu-zheng-dong-hua-zhi-zuo-ke-jian.md)
   * 4.6 利用形状补间动画制作课件
   * 4.7 利用运动补间动画制作课件
   * [4.8 利用引导线动画制作课件](48-li-yong-yin-dao-xian-dong-hua-zhi-zuo-ke-jian.md)
