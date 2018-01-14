@@ -28,8 +28,8 @@
     * [2.2.3声音素材的制作要求](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/22-sheng-yin-su-cai-de-huo-qu-yu-chu-li/223sheng-yin-su-cai-de-zhi-zuo-yao-qiu.md)
   * 2.3 动画素材的获取与处理
     * [2.3.1动画素材简介](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/231dong-hua-su-cai-jian-jie.md)
-    * 2.3.2动画的获取与处理
-    * 2.3.3动画素材的制作要求
+    * [2.3.2动画的获取与处理](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/232dong-hua-de-huo-qu-yu-chu-li.md)
+    * [2.3.3动画素材的制作要求](di-2-zhang-you-er-yuan-duo-mei-ti-ke-jian-su-cai-de-huo-qu-yu-chu-li/233dong-hua-su-cai-de-zhi-zuo-yao-qiu.md)
   * [2.4 视频素材的获取与处理](24-shi-pin-su-cai-de-huo-qu-yu-chu-li.md)
     * [2.4.1视频素材简介](24-shi-pin-su-cai-de-huo-qu-yu-chu-li/241shi-pin-su-cai-jian-jie.md)
     * [2.4.2视频信息的采集与编辑](24-shi-pin-su-cai-de-huo-qu-yu-chu-li/242shi-pin-xin-xi-de-cai-ji-yu-bian-ji.md)
@@ -45,14 +45,14 @@
     * [3.2.2在课件中添加图像](322zai-ke-jian-zhong-tian-jia-tu-xiang.md)
     * [3.2.3在课件中添加图形](323zai-ke-jian-zhong-tian-jia-tu-xing.md)
   * 3.3 在Powerpoint课件中添加影音和图表
-    * 3.3.1在课件中添加影音
-    * 3.3.2在课件中添加图表
+    * [3.3.1在课件中添加影音](331zai-ke-jian-zhong-tian-jia-ying-yin.md)
+    * [3.3.2在课件中添加图表](332zai-ke-jian-zhong-tian-jia-tu-biao.md)
   * [3.4 Powerpoint课件的美化](34-powerpointke-jian-de-mei-hua.md)
-    * 3.4.1课件的色彩搭配
-    * 3.4.2课件的背景设置
-    * 3.4.3课件版式的设置
-    * 3.4.4课件主题的调整
-    * 3.4.5课件模板的设置
+    * [3.4.1课件的色彩搭配](341ke-jian-de-se-cai-da-pei.md)
+    * [3.4.2课件的背景设置](342ke-jian-de-bei-jing-she-zhi.md)
+    * [3.4.3课件版式的设置](343ke-jian-ban-shi-de-she-zhi.md)
+    * [3.4.4课件主题的调整](344ke-jian-zhu-ti-de-diao-zheng.md)
+    * [3.4.5课件模板的设置](345ke-jian-mo-ban-de-she-zhi.md)
   * [3.5 Powerpoint课件的动画设置](35-powerpointke-jian-de-dong-hua-she-zhi.md)
     * [3.5.1 Powerpoint课件内部动画的设置](351-powerpointke-jian-nei-bu-dong-hua-de-she-zhi.md)
     * [3.5.2 Powerpoint课件切换动画的设置](352-powerpointke-jian-qie-huan-dong-hua-de-she-zhi.md)
@@ -60,25 +60,27 @@
     * [3.6.1 使用动作交互](36-shi-yong-ke-jian-zhong-dui-xiang-chan-sheng-jiao-hu/361-shi-yong-dong-zuo-jiao-hu.md)
     * [3.6.2 使用超链接设置交互](36-shi-yong-ke-jian-zhong-dui-xiang-chan-sheng-jiao-hu/362-shi-yong-chao-lian-jie-she-zhi-jiao-hu.md)
     * [3.6.3 使用动作按钮交互](36-shi-yong-ke-jian-zhong-dui-xiang-chan-sheng-jiao-hu/363-shi-yong-dong-zuo-an-niu-jiao-hu.md)
-  * 3.7 课件中使用菜单和按键产生交互
-    * 3.7.1 使用播放菜单交互
-    * 3.7.2 使用按键交互
-  * 3.8 课件中使用触发器产生交互
-    * 3.8.1 使用文字触发器交互
-    * 3.8.2 使用图片触发器交互
-    * 3.8.3 使用声音触发器交互
+  * [3.7 课件中使用菜单和按键产生交互](37-ke-jian-zhong-shi-yong-cai-dan-he-an-jian-chan-sheng-jiao-hu.md)
+    * [3.7.1 使用播放菜单交互](37-ke-jian-zhong-shi-yong-cai-dan-he-an-jian-chan-sheng-jiao-hu/371-shi-yong-bo-fang-cai-dan-jiao-hu.md)
+    * [3.7.2 使用按键交互](37-ke-jian-zhong-shi-yong-cai-dan-he-an-jian-chan-sheng-jiao-hu/372-shi-yong-an-jian-jiao-hu.md)
+  * [3.8 课件中使用触发器产生交互](38-ke-jian-zhong-shi-yong-hong-fa-qi-chan-sheng-jiao-hu.md)
+    * [3.8.1 使用文字触发器交互](381-shi-yong-wen-zi-hong-fa-qi-jiao-hu.md)
+    * [3.8.2 使用图片触发器交互](382-shi-yong-tu-pian-hong-fa-qi-jiao-hu.md)
+    * [3.8.3 使用声音触发器交互](383-shi-yong-sheng-yin-hong-fa-qi-jiao-hu.md)
   * 3.9 Powerpoint课件的输出
-    * 3.9.1播放课件
-    * 3.9.2发布课件
-    * 3.9.3打包课件
-    * 3.9.4设置保护
-    * 3.9.5打印课件
+    * [3.9.1播放课件](391bo-fang-ke-jian.md)
+    * [3.9.2发布课件](392fa-bu-ke-jian.md)
+    * [3.9.3打包课件](393da-bao-ke-jian.md)
+    * [3.9.4设置保护](394she-zhi-bao-hu.md)
+    * [3.9.5打印课件](395da-yin-ke-jian.md)
   * 本章习题
 * [第4章  Flash课件的制作](di-4-zhang-flash-ke-jian-de-zhi-zuo.md)
   * 学习目标
   * [4.1 Flash简介](41-flashjian-jie.md)
-    * 4.1.1 Flash的工作环境及界面
-    * 4.1.2 Flash的文档操作
+
+    * [4.1.1 Flash的工作环境及界面](41-flashjian-jie/411-flashde-gong-zuo-huan-jing-ji-jie-mian.md)
+    * [4.1.2 Flash的文档操作](41-flashjian-jie/412-flashde-wen-dang-cao-zuo.md)
+
   * [4.2 Flash基本操作](42-flashji-ben-cao-zuo.md)
     * [4.2.1 图层](42-flashji-ben-cao-zuo/421-tu-ceng.md)
     * [4.2.2 帧](42-flashji-ben-cao-zuo/422-zheng.md)
@@ -89,8 +91,10 @@
     * [4.3.2制作图形](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing/432zhi-zuo-tu-xing.md)
     * [4.3.3位图的应用](43-zai-flash-ke-jian-zhong-tian-jia-wen-zi-3001-tu-xiang-he-tu-xing/433wei-tu-de-ying-yong.md)
   * [4.4 在Flash课件中添加音频和视频](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin.md)
-    * 4.4.1声音的应用
-    * 4.4.2视频的应用
+
+    * [4.4.1声音的应用](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin/441sheng-yin-de-ying-yong.md)
+    * [4.4.2视频的应用](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin/442shi-pin-de-ying-yong.md)
+
   * 4.5 利用逐帧动画制作课件
   * 4.6 利用形状补间动画制作课件
   * 4.7 利用运动补间动画制作课件
@@ -108,5 +112,5 @@
     * [5.2.1使用手机拍摄微课](52-zhi-zuo-wei-ke-de-jian-dan-fang-fa/521shi-yong-shou-ji-pai-she-wei-ke.md)
     * [5.2.2使用Camtasia Studio编辑微课](52-zhi-zuo-wei-ke-de-jian-dan-fang-fa/522shi-yong-camtasia-studio-bian-ji-wei-ke.md)
   * 本章习题
-* 参考文献
+* [参考文献](can-kao-wen-xian.md)
 

@@ -12,7 +12,7 @@
 
     ![](file:///C:\Users\netedi21\AppData\Local\Temp\ksohtml\wps8662.tmp.png)
 
-        **图5-2-1 手机支架**
+**图5-2-1 手机支架**
 
  **2.拍摄过程**
 

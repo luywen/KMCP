@@ -1,132 +1,12 @@
-@font-face{
-
-font-family:"Times New Roman";
-
-}
-
-@font-face{
-
-font-family:"宋体";
-
-}
-
-@font-face{
-
-font-family:"Calibri";
-
-}
-
-@list l0:level1{
-
-mso-level-number-format:decimal;
-
-mso-level-suffix:tab;
-
-mso-level-text:"%1.";
-
-mso-level-tab-stop:15.6000pt;
-
-mso-level-number-position:left;
-
-margin-left:0.0000pt;
-
-text-indent:0.0000pt;
-
-font-family:'Times New Roman';}
-
-@list l1:level1{
-
-mso-level-start-at:3;
-
-mso-level-number-format:decimal;
-
-mso-level-suffix:tab;
-
-mso-level-text:"%1.";
-
-mso-level-tab-stop:15.6000pt;
-
-mso-level-number-position:left;
-
-margin-left:0.0000pt;
-
-text-indent:0.0000pt;
-
-font-family:'Times New Roman';}
-
-p.MsoNormal{
-
-mso-style-name:正文;
-
-mso-style-parent:"";
-
-margin:0pt;
-
-margin-bottom:.0001pt;
-
-mso-pagination:none;
-
-text-align:justify;
-
-text-justify:inter-ideograph;
-
-font-family:Calibri;
-
-mso-fareast-font-family:宋体;
-
-mso-bidi-font-family:'Times New Roman';
-
-font-size:10.5000pt;
-
-mso-font-kerning:1.0000pt;
-
-}
-
-span.msoIns{
-
-mso-style-type:export-only;
-
-mso-style-name:"";
-
-text-decoration:underline;
-
-text-underline:single;
-
-color:blue;
-
-}
-
-span.msoDel{
-
-mso-style-type:export-only;
-
-mso-style-name:"";
-
-text-decoration:line-through;
-
-color:red;
-
-}
-
-@page{mso-page-border-surround-header:no;
-
-```
-mso-page-border-surround-footer:no;}@page Section0{
-```
-
-}
-
-div.Section0{page:Section0;}
-
 **4.3.1 制作文本**
 
 文字是Flash课件中的重要对象，Flash CS4在文字处理方面具有强大的功能。用文本工具可以直接输入文字，并且可以改变文字的字体、大小、颜色等属性，还能设置滤镜效果。
 
 1.**文本工具的使用**：选择【文本工具】T——鼠标移至舞台后按住鼠标左键并拖动就会插入文本框——光标闪烁，即可输入文本。如图4-3-1所示。
 
-![](/assets/图片1.png)![](/assets/图片2.png)
+![](/assets/4-3-1.png)![](/assets/4-3-2.png)
 
-![](/assets/图片3.png)
+![](/assets/4-3-3.png)
 
 **图4-3-1文本工具的使用**
 
@@ -154,19 +34,19 @@ div.Section0{page:Section0;}
 
 
 
-![](/assets/图片4.png)
+![](/assets/4-3-4.png)
 
-![](/assets/图片5.png)
+![](/assets/4-3-5.png)
 
-![](/assets/图片6.png)
+![](/assets/4-3-6.png)
 
 **图4-3-2   文本工具属性图标**
 
-3.**设置文字滤镜效果**：单击【滤镜】选项——单击![](/assets/图片7.png)按钮——选择滤镜效果类型。
+3.**设置文字滤镜效果**：单击【滤镜】选项——单击![](/assets/4-3-7.png)按钮——选择滤镜效果类型。
 
 如图4-3-3所示。
 
-![](/assets/图片8.png)![](/assets/图片9.png)
+![](/assets/4-3-8.png)![](/assets/4-3-9.png)
 
 **图4-3-3   投影滤镜效果演示**
 
