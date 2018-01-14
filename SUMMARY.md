@@ -92,8 +92,7 @@
     * [4.4.1声音的应用](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin/441sheng-yin-de-ying-yong.md)
     * [4.4.2视频的应用](44-zai-flash-ke-jian-zhong-tian-jia-yin-pin-he-shi-pin/442shi-pin-de-ying-yong.md)
   * [4.5 利用逐帧动画制作课件](45-li-yong-zhu-zheng-dong-hua-zhi-zuo-ke-jian.md)
-
-  * 4.6 利用形状补间动画制作课件
+  * [4.6 利用形状补间动画制作课件](46-li-yong-xing-zhuang-bu-jian-dong-hua-zhi-zuo-ke-jian.md)
   * 4.7 利用运动补间动画制作课件
   * [4.8 利用引导线动画制作课件](48-li-yong-yin-dao-xian-dong-hua-zhi-zuo-ke-jian.md)
   * [4.9 利用遮罩动画制作课件](49-li-yong-zhe-zhao-dong-hua-zhi-zuo-ke-jian.md)
